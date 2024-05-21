@@ -1,0 +1,90 @@
+Average PSNR - HaLRTC: 10.15 za p: 1.000000e-02 in r: 1
+Time - HaLRTC: 151.70 za p: 1.000000e-02 in r: 1
+Average RSE - HaLRTC: 0.95 za p: 1.000000e-02 in r: 1
+Average PSNR - HaLRTC: 14.06 za p: 1.100000e-01 in r: 1
+Time - HaLRTC: 140.42 za p: 1.100000e-01 in r: 1
+Average RSE - HaLRTC: 0.62 za p: 1.100000e-01 in r: 1
+Average PSNR - HaLRTC: 17.61 za p: 2.100000e-01 in r: 1
+Time - HaLRTC: 122.41 za p: 2.100000e-01 in r: 1
+Average RSE - HaLRTC: 0.41 za p: 2.100000e-01 in r: 1
+Average PSNR - HaLRTC: 22.41 za p: 3.100000e-01 in r: 1
+Time - HaLRTC: 182.25 za p: 3.100000e-01 in r: 1
+Average RSE - HaLRTC: 0.23 za p: 3.100000e-01 in r: 1
+Average PSNR - HaLRTC: 30.40 za p: 4.100000e-01 in r: 1
+Time - HaLRTC: 141.71 za p: 4.100000e-01 in r: 1
+Average RSE - HaLRTC: 0.09 za p: 4.100000e-01 in r: 1
+Average PSNR - HaLRTC: 56.45 za p: 5.100000e-01 in r: 1
+Time - HaLRTC: 114.62 za p: 5.100000e-01 in r: 1
+Average RSE - HaLRTC: 0.01 za p: 5.100000e-01 in r: 1
+Average PSNR - HaLRTC: 137.83 za p: 6.100000e-01 in r: 1
+Time - HaLRTC: 114.38 za p: 6.100000e-01 in r: 1
+Average RSE - HaLRTC: 0.00 za p: 6.100000e-01 in r: 1
+Average PSNR - HaLRTC: 252.50 za p: 7.100000e-01 in r: 1
+Time - HaLRTC: 114.20 za p: 7.100000e-01 in r: 1
+Average RSE - HaLRTC: 0.00 za p: 7.100000e-01 in r: 1
+Average PSNR - HaLRTC: 322.72 za p: 8.100000e-01 in r: 1
+Time - HaLRTC: 114.96 za p: 8.100000e-01 in r: 1
+Average RSE - HaLRTC: 0.00 za p: 8.100000e-01 in r: 1
+Average PSNR - HaLRTC: 327.50 za p: 9.100000e-01 in r: 1
+Time - HaLRTC: 115.56 za p: 9.100000e-01 in r: 1
+Average RSE - HaLRTC: 0.00 za p: 9.100000e-01 in r: 1
+Average PSNR - HaLRTC: 6.84 za p: 1.000000e-02 in r: 4
+Time - HaLRTC: 114.66 za p: 1.000000e-02 in r: 4
+Average RSE - HaLRTC: 0.98 za p: 1.000000e-02 in r: 4
+Average PSNR - HaLRTC: 8.45 za p: 1.100000e-01 in r: 4
+Time - HaLRTC: 115.41 za p: 1.100000e-01 in r: 4
+Average RSE - HaLRTC: 0.84 za p: 1.100000e-01 in r: 4
+Average PSNR - HaLRTC: 9.54 za p: 2.100000e-01 in r: 4
+Time - HaLRTC: 115.26 za p: 2.100000e-01 in r: 4
+Average RSE - HaLRTC: 0.74 za p: 2.100000e-01 in r: 4
+Average PSNR - HaLRTC: 10.62 za p: 3.100000e-01 in r: 4
+Time - HaLRTC: 115.87 za p: 3.100000e-01 in r: 4
+Average RSE - HaLRTC: 0.64 za p: 3.100000e-01 in r: 4
+Average PSNR - HaLRTC: 12.22 za p: 4.100000e-01 in r: 4
+Time - HaLRTC: 115.74 za p: 4.100000e-01 in r: 4
+Average RSE - HaLRTC: 0.54 za p: 4.100000e-01 in r: 4
+Average PSNR - HaLRTC: 13.94 za p: 5.100000e-01 in r: 4
+Time - HaLRTC: 115.36 za p: 5.100000e-01 in r: 4
+Average RSE - HaLRTC: 0.44 za p: 5.100000e-01 in r: 4
+Average PSNR - HaLRTC: 16.16 za p: 6.100000e-01 in r: 4
+Time - HaLRTC: 116.54 za p: 6.100000e-01 in r: 4
+Average RSE - HaLRTC: 0.34 za p: 6.100000e-01 in r: 4
+Average PSNR - HaLRTC: 19.72 za p: 7.100000e-01 in r: 4
+Time - HaLRTC: 115.64 za p: 7.100000e-01 in r: 4
+Average RSE - HaLRTC: 0.23 za p: 7.100000e-01 in r: 4
+Average PSNR - HaLRTC: 26.30 za p: 8.100000e-01 in r: 4
+Time - HaLRTC: 132.62 za p: 8.100000e-01 in r: 4
+Average RSE - HaLRTC: 0.11 za p: 8.100000e-01 in r: 4
+Average PSNR - HaLRTC: 68.86 za p: 9.100000e-01 in r: 4
+Time - HaLRTC: 114.69 za p: 9.100000e-01 in r: 4
+Average RSE - HaLRTC: 0.00 za p: 9.100000e-01 in r: 4
+Average PSNR - HaLRTC: 5.97 za p: 1.000000e-02 in r: 7
+Time - HaLRTC: 115.32 za p: 1.000000e-02 in r: 7
+Average RSE - HaLRTC: 0.99 za p: 1.000000e-02 in r: 7
+Average PSNR - HaLRTC: 6.75 za p: 1.100000e-01 in r: 7
+Time - HaLRTC: 115.27 za p: 1.100000e-01 in r: 7
+Average RSE - HaLRTC: 0.88 za p: 1.100000e-01 in r: 7
+Average PSNR - HaLRTC: 7.70 za p: 2.100000e-01 in r: 7
+Time - HaLRTC: 115.50 za p: 2.100000e-01 in r: 7
+Average RSE - HaLRTC: 0.80 za p: 2.100000e-01 in r: 7
+Average PSNR - HaLRTC: 8.48 za p: 3.100000e-01 in r: 7
+Time - HaLRTC: 115.75 za p: 3.100000e-01 in r: 7
+Average RSE - HaLRTC: 0.72 za p: 3.100000e-01 in r: 7
+Average PSNR - HaLRTC: 9.51 za p: 4.100000e-01 in r: 7
+Time - HaLRTC: 115.43 za p: 4.100000e-01 in r: 7
+Average RSE - HaLRTC: 0.63 za p: 4.100000e-01 in r: 7
+Average PSNR - HaLRTC: 10.63 za p: 5.100000e-01 in r: 7
+Time - HaLRTC: 115.76 za p: 5.100000e-01 in r: 7
+Average RSE - HaLRTC: 0.55 za p: 5.100000e-01 in r: 7
+Average PSNR - HaLRTC: 12.40 za p: 6.100000e-01 in r: 7
+Time - HaLRTC: 115.45 za p: 6.100000e-01 in r: 7
+Average RSE - HaLRTC: 0.45 za p: 6.100000e-01 in r: 7
+Average PSNR - HaLRTC: 14.79 za p: 7.100000e-01 in r: 7
+Time - HaLRTC: 119.83 za p: 7.100000e-01 in r: 7
+Average RSE - HaLRTC: 0.35 za p: 7.100000e-01 in r: 7
+Average PSNR - HaLRTC: 18.42 za p: 8.100000e-01 in r: 7
+Time - HaLRTC: 116.19 za p: 8.100000e-01 in r: 7
+Average RSE - HaLRTC: 0.24 za p: 8.100000e-01 in r: 7
+Average PSNR - HaLRTC: 26.29 za p: 9.100000e-01 in r: 7
+Time - HaLRTC: 115.09 za p: 9.100000e-01 in r: 7
+Average RSE - HaLRTC: 0.09 za p: 9.100000e-01 in r: 7

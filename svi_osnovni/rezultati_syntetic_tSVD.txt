@@ -1,0 +1,301 @@
+Average PSNR - tSVD: 10.33 za p: 1.000000e-02 in r: 1
+Time - tSVD: 148.90 za p: 1.000000e-02 in r: 1
+Average RSE - tSVD: 0.95 za p: 1.000000e-02 in r: 1
+Average PSNR - tSVD: 14.33 za p: 1.100000e-01 in r: 1
+Time - tSVD: 142.37 za p: 1.100000e-01 in r: 1
+Average RSE - tSVD: 0.61 za p: 1.100000e-01 in r: 1
+Average PSNR - tSVD: 19.56 za p: 2.100000e-01 in r: 1
+Time - tSVD: 136.01 za p: 2.100000e-01 in r: 1
+Average RSE - tSVD: 0.33 za p: 2.100000e-01 in r: 1
+Average PSNR - tSVD: 26.65 za p: 3.100000e-01 in r: 1
+Time - tSVD: 135.22 za p: 3.100000e-01 in r: 1
+Average RSE - tSVD: 0.14 za p: 3.100000e-01 in r: 1
+Average PSNR - tSVD: 43.51 za p: 4.100000e-01 in r: 1
+Time - tSVD: 135.18 za p: 4.100000e-01 in r: 1
+Average RSE - tSVD: 0.02 za p: 4.100000e-01 in r: 1
+Average PSNR - tSVD: 111.86 za p: 5.100000e-01 in r: 1
+Time - tSVD: 135.88 za p: 5.100000e-01 in r: 1
+Average RSE - tSVD: 0.00 za p: 5.100000e-01 in r: 1
+Average PSNR - tSVD: 186.67 za p: 6.100000e-01 in r: 1
+Time - tSVD: 125.54 za p: 6.100000e-01 in r: 1
+Average RSE - tSVD: 0.00 za p: 6.100000e-01 in r: 1
+Average PSNR - tSVD: 190.10 za p: 7.100000e-01 in r: 1
+Time - tSVD: 95.51 za p: 7.100000e-01 in r: 1
+Average RSE - tSVD: 0.00 za p: 7.100000e-01 in r: 1
+Average PSNR - tSVD: 191.36 za p: 8.100000e-01 in r: 1
+Time - tSVD: 73.92 za p: 8.100000e-01 in r: 1
+Average RSE - tSVD: 0.00 za p: 8.100000e-01 in r: 1
+Average PSNR - tSVD: 198.17 za p: 9.100000e-01 in r: 1
+Time - tSVD: 48.96 za p: 9.100000e-01 in r: 1
+Average RSE - tSVD: 0.00 za p: 9.100000e-01 in r: 1
+
+Average PSNR - tSVD: 6.98 za p: 1.000000e-02 in r: 4
+Time - tSVD: 134.07 za p: 1.000000e-02 in r: 4
+Average RSE - tSVD: 0.97 za p: 1.000000e-02 in r: 4
+Average PSNR - tSVD: 8.63 za p: 1.100000e-01 in r: 4
+Time - tSVD: 135.58 za p: 1.100000e-01 in r: 4
+Average RSE - tSVD: 0.81 za p: 1.100000e-01 in r: 4
+Average PSNR - tSVD: 9.96 za p: 2.100000e-01 in r: 4
+Time - tSVD: 134.43 za p: 2.100000e-01 in r: 4
+Average RSE - tSVD: 0.70 za p: 2.100000e-01 in r: 4
+Average PSNR - tSVD: 11.44 za p: 3.100000e-01 in r: 4
+Time - tSVD: 136.02 za p: 3.100000e-01 in r: 4
+Average RSE - tSVD: 0.59 za p: 3.100000e-01 in r: 4
+Average PSNR - tSVD: 13.19 za p: 4.100000e-01 in r: 4
+Time - tSVD: 135.53 za p: 4.100000e-01 in r: 4
+Average RSE - tSVD: 0.49 za p: 4.100000e-01 in r: 4
+Average PSNR - tSVD: 15.04 za p: 5.100000e-01 in r: 4
+Time - tSVD: 137.84 za p: 5.100000e-01 in r: 4
+Average RSE - tSVD: 0.38 za p: 5.100000e-01 in r: 4
+Average PSNR - tSVD: 18.04 za p: 6.100000e-01 in r: 4
+Time - tSVD: 135.23 za p: 6.100000e-01 in r: 4
+Average RSE - tSVD: 0.27 za p: 6.100000e-01 in r: 4
+Average PSNR - tSVD: 22.64 za p: 7.100000e-01 in r: 4
+Time - tSVD: 134.56 za p: 7.100000e-01 in r: 4
+Average RSE - tSVD: 0.16 za p: 7.100000e-01 in r: 4
+Average PSNR - tSVD: 34.34 za p: 8.100000e-01 in r: 4
+Time - tSVD: 133.94 za p: 8.100000e-01 in r: 4
+Average RSE - tSVD: 0.04 za p: 8.100000e-01 in r: 4
+Average PSNR - tSVD: 198.83 za p: 9.100000e-01 in r: 4
+Time - tSVD: 126.28 za p: 9.100000e-01 in r: 4
+Average RSE - tSVD: 0.00 za p: 9.100000e-01 in r: 4
+Average PSNR - tSVD: 5.79 za p: 1.000000e-02 in r: 7
+Time - tSVD: 132.22 za p: 1.000000e-02 in r: 7
+Average RSE - tSVD: 0.98 za p: 1.000000e-02 in r: 7
+Average PSNR - tSVD: 7.06 za p: 1.100000e-01 in r: 7
+Time - tSVD: 133.79 za p: 1.100000e-01 in r: 7
+Average RSE - tSVD: 0.86 za p: 1.100000e-01 in r: 7
+Average PSNR - tSVD: 7.81 za p: 2.100000e-01 in r: 7
+Time - tSVD: 135.81 za p: 2.100000e-01 in r: 7
+Average RSE - tSVD: 0.77 za p: 2.100000e-01 in r: 7
+Average PSNR - tSVD: 8.86 za p: 3.100000e-01 in r: 7
+Time - tSVD: 134.97 za p: 3.100000e-01 in r: 7
+Average RSE - tSVD: 0.68 za p: 3.100000e-01 in r: 7
+Average PSNR - tSVD: 10.04 za p: 4.100000e-01 in r: 7
+Time - tSVD: 135.63 za p: 4.100000e-01 in r: 7
+Average RSE - tSVD: 0.60 za p: 4.100000e-01 in r: 7
+Average PSNR - tSVD: 11.59 za p: 5.100000e-01 in r: 7
+Time - tSVD: 134.85 za p: 5.100000e-01 in r: 7
+Average RSE - tSVD: 0.51 za p: 5.100000e-01 in r: 7
+Average PSNR - tSVD: 13.14 za p: 6.100000e-01 in r: 7
+Time - tSVD: 135.10 za p: 6.100000e-01 in r: 7
+Average RSE - tSVD: 0.41 za p: 6.100000e-01 in r: 7
+Average PSNR - tSVD: 15.86 za p: 7.100000e-01 in r: 7
+Time - tSVD: 134.66 za p: 7.100000e-01 in r: 7
+Average RSE - tSVD: 0.31 za p: 7.100000e-01 in r: 7
+Average PSNR - tSVD: 20.19 za p: 8.100000e-01 in r: 7
+Time - tSVD: 133.44 za p: 8.100000e-01 in r: 7
+Average RSE - tSVD: 0.19 za p: 8.100000e-01 in r: 7
+Average PSNR - tSVD: 32.95 za p: 9.100000e-01 in r: 7
+Time - tSVD: 133.34 za p: 9.100000e-01 in r: 7
+Average RSE - tSVD: 0.04 za p: 9.100000e-01 in r: 7
+Average PSNR - tSVD: 5.06 za p: 1.000000e-02 in r: 10
+Time - tSVD: 132.62 za p: 1.000000e-02 in r: 10
+Average RSE - tSVD: 0.98 za p: 1.000000e-02 in r: 10
+Average PSNR - tSVD: 6.08 za p: 1.100000e-01 in r: 10
+Time - tSVD: 134.44 za p: 1.100000e-01 in r: 10
+Average RSE - tSVD: 0.89 za p: 1.100000e-01 in r: 10
+Average PSNR - tSVD: 6.78 za p: 2.100000e-01 in r: 10
+Time - tSVD: 133.71 za p: 2.100000e-01 in r: 10
+Average RSE - tSVD: 0.81 za p: 2.100000e-01 in r: 10
+Average PSNR - tSVD: 7.73 za p: 3.100000e-01 in r: 10
+Time - tSVD: 134.21 za p: 3.100000e-01 in r: 10
+Average RSE - tSVD: 0.73 za p: 3.100000e-01 in r: 10
+Average PSNR - tSVD: 8.78 za p: 4.100000e-01 in r: 10
+Time - tSVD: 134.64 za p: 4.100000e-01 in r: 10
+Average RSE - tSVD: 0.64 za p: 4.100000e-01 in r: 10
+Average PSNR - tSVD: 9.83 za p: 5.100000e-01 in r: 10
+Time - tSVD: 136.26 za p: 5.100000e-01 in r: 10
+Average RSE - tSVD: 0.56 za p: 5.100000e-01 in r: 10
+Average PSNR - tSVD: 11.46 za p: 6.100000e-01 in r: 10
+Time - tSVD: 135.10 za p: 6.100000e-01 in r: 10
+Average RSE - tSVD: 0.47 za p: 6.100000e-01 in r: 10
+Average PSNR - tSVD: 13.46 za p: 7.100000e-01 in r: 10
+Time - tSVD: 135.42 za p: 7.100000e-01 in r: 10
+Average RSE - tSVD: 0.37 za p: 7.100000e-01 in r: 10
+Average PSNR - tSVD: 16.52 za p: 8.100000e-01 in r: 10
+Time - tSVD: 135.07 za p: 8.100000e-01 in r: 10
+Average RSE - tSVD: 0.26 za p: 8.100000e-01 in r: 10
+Average PSNR - tSVD: 23.80 za p: 9.100000e-01 in r: 10
+Time - tSVD: 134.46 za p: 9.100000e-01 in r: 10
+Average RSE - tSVD: 0.11 za p: 9.100000e-01 in r: 10
+Average PSNR - tSVD: 4.68 za p: 1.000000e-02 in r: 13
+Time - tSVD: 134.27 za p: 1.000000e-02 in r: 13
+Average RSE - tSVD: 0.99 za p: 1.000000e-02 in r: 13
+Average PSNR - tSVD: 5.50 za p: 1.100000e-01 in r: 13
+Time - tSVD: 135.21 za p: 1.100000e-01 in r: 13
+Average RSE - tSVD: 0.90 za p: 1.100000e-01 in r: 13
+Average PSNR - tSVD: 6.11 za p: 2.100000e-01 in r: 13
+Time - tSVD: 135.23 za p: 2.100000e-01 in r: 13
+Average RSE - tSVD: 0.82 za p: 2.100000e-01 in r: 13
+Average PSNR - tSVD: 7.03 za p: 3.100000e-01 in r: 13
+Time - tSVD: 135.40 za p: 3.100000e-01 in r: 13
+Average RSE - tSVD: 0.75 za p: 3.100000e-01 in r: 13
+Average PSNR - tSVD: 8.05 za p: 4.100000e-01 in r: 13
+Time - tSVD: 135.06 za p: 4.100000e-01 in r: 13
+Average RSE - tSVD: 0.67 za p: 4.100000e-01 in r: 13
+Average PSNR - tSVD: 9.17 za p: 5.100000e-01 in r: 13
+Time - tSVD: 136.60 za p: 5.100000e-01 in r: 13
+Average RSE - tSVD: 0.59 za p: 5.100000e-01 in r: 13
+Average PSNR - tSVD: 10.29 za p: 6.100000e-01 in r: 13
+Time - tSVD: 135.54 za p: 6.100000e-01 in r: 13
+Average RSE - tSVD: 0.51 za p: 6.100000e-01 in r: 13
+Average PSNR - tSVD: 12.30 za p: 7.100000e-01 in r: 13
+Time - tSVD: 133.31 za p: 7.100000e-01 in r: 13
+Average RSE - tSVD: 0.41 za p: 7.100000e-01 in r: 13
+Average PSNR - tSVD: 14.96 za p: 8.100000e-01 in r: 13
+Time - tSVD: 134.33 za p: 8.100000e-01 in r: 13
+Average RSE - tSVD: 0.30 za p: 8.100000e-01 in r: 13
+Average PSNR - tSVD: 20.70 za p: 9.100000e-01 in r: 13
+Time - tSVD: 132.88 za p: 9.100000e-01 in r: 13
+Average RSE - tSVD: 0.15 za p: 9.100000e-01 in r: 13
+Average PSNR - tSVD: 4.13 za p: 1.000000e-02 in r: 16
+Time - tSVD: 132.74 za p: 1.000000e-02 in r: 16
+Average RSE - tSVD: 0.99 za p: 1.000000e-02 in r: 16
+Average PSNR - tSVD: 5.01 za p: 1.100000e-01 in r: 16
+Time - tSVD: 133.57 za p: 1.100000e-01 in r: 16
+Average RSE - tSVD: 0.91 za p: 1.100000e-01 in r: 16
+Average PSNR - tSVD: 5.68 za p: 2.100000e-01 in r: 16
+Time - tSVD: 133.26 za p: 2.100000e-01 in r: 16
+Average RSE - tSVD: 0.83 za p: 2.100000e-01 in r: 16
+Average PSNR - tSVD: 6.38 za p: 3.100000e-01 in r: 16
+Time - tSVD: 144.35 za p: 3.100000e-01 in r: 16
+Average RSE - tSVD: 0.77 za p: 3.100000e-01 in r: 16
+Average PSNR - tSVD: 7.46 za p: 4.100000e-01 in r: 16
+Time - tSVD: 133.77 za p: 4.100000e-01 in r: 16
+Average RSE - tSVD: 0.69 za p: 4.100000e-01 in r: 16
+Average PSNR - tSVD: 8.34 za p: 5.100000e-01 in r: 16
+Time - tSVD: 133.97 za p: 5.100000e-01 in r: 16
+Average RSE - tSVD: 0.61 za p: 5.100000e-01 in r: 16
+Average PSNR - tSVD: 9.66 za p: 6.100000e-01 in r: 16
+Time - tSVD: 134.10 za p: 6.100000e-01 in r: 16
+Average RSE - tSVD: 0.53 za p: 6.100000e-01 in r: 16
+Average PSNR - tSVD: 11.28 za p: 7.100000e-01 in r: 16
+Time - tSVD: 133.81 za p: 7.100000e-01 in r: 16
+Average RSE - tSVD: 0.43 za p: 7.100000e-01 in r: 16
+Average PSNR - tSVD: 13.86 za p: 8.100000e-01 in r: 16
+Time - tSVD: 133.82 za p: 8.100000e-01 in r: 16
+Average RSE - tSVD: 0.32 za p: 8.100000e-01 in r: 16
+Average PSNR - tSVD: 18.96 za p: 9.100000e-01 in r: 16
+Time - tSVD: 133.61 za p: 9.100000e-01 in r: 16
+Average RSE - tSVD: 0.18 za p: 9.100000e-01 in r: 16
+Average PSNR - tSVD: 3.93 za p: 1.000000e-02 in r: 19
+Time - tSVD: 132.70 za p: 1.000000e-02 in r: 19
+Average RSE - tSVD: 0.99 za p: 1.000000e-02 in r: 19
+Average PSNR - tSVD: 4.58 za p: 1.100000e-01 in r: 19
+Time - tSVD: 133.97 za p: 1.100000e-01 in r: 19
+Average RSE - tSVD: 0.91 za p: 1.100000e-01 in r: 19
+Average PSNR - tSVD: 5.41 za p: 2.100000e-01 in r: 19
+Time - tSVD: 133.75 za p: 2.100000e-01 in r: 19
+Average RSE - tSVD: 0.84 za p: 2.100000e-01 in r: 19
+Average PSNR - tSVD: 6.15 za p: 3.100000e-01 in r: 19
+Time - tSVD: 133.92 za p: 3.100000e-01 in r: 19
+Average RSE - tSVD: 0.77 za p: 3.100000e-01 in r: 19
+Average PSNR - tSVD: 6.91 za p: 4.100000e-01 in r: 19
+Time - tSVD: 133.91 za p: 4.100000e-01 in r: 19
+Average RSE - tSVD: 0.70 za p: 4.100000e-01 in r: 19
+Average PSNR - tSVD: 7.77 za p: 5.100000e-01 in r: 19
+Time - tSVD: 134.27 za p: 5.100000e-01 in r: 19
+Average RSE - tSVD: 0.62 za p: 5.100000e-01 in r: 19
+Average PSNR - tSVD: 9.10 za p: 6.100000e-01 in r: 19
+Time - tSVD: 137.46 za p: 6.100000e-01 in r: 19
+Average RSE - tSVD: 0.54 za p: 6.100000e-01 in r: 19
+Average PSNR - tSVD: 10.76 za p: 7.100000e-01 in r: 19
+Time - tSVD: 134.48 za p: 7.100000e-01 in r: 19
+Average RSE - tSVD: 0.45 za p: 7.100000e-01 in r: 19
+Average PSNR - tSVD: 13.18 za p: 8.100000e-01 in r: 19
+Time - tSVD: 133.08 za p: 8.100000e-01 in r: 19
+Average RSE - tSVD: 0.34 za p: 8.100000e-01 in r: 19
+Average PSNR - tSVD: 17.26 za p: 9.100000e-01 in r: 19
+Time - tSVD: 148.63 za p: 9.100000e-01 in r: 19
+Average RSE - tSVD: 0.21 za p: 9.100000e-01 in r: 19
+Average PSNR - tSVD: 3.72 za p: 1.000000e-02 in r: 22
+Time - tSVD: 150.38 za p: 1.000000e-02 in r: 22
+Average RSE - tSVD: 0.99 za p: 1.000000e-02 in r: 22
+Average PSNR - tSVD: 4.20 za p: 1.100000e-01 in r: 22
+Time - tSVD: 150.36 za p: 1.100000e-01 in r: 22
+Average RSE - tSVD: 0.92 za p: 1.100000e-01 in r: 22
+Average PSNR - tSVD: 4.93 za p: 2.100000e-01 in r: 22
+Time - tSVD: 137.46 za p: 2.100000e-01 in r: 22
+Average RSE - tSVD: 0.85 za p: 2.100000e-01 in r: 22
+Average PSNR - tSVD: 5.66 za p: 3.100000e-01 in r: 22
+Time - tSVD: 134.24 za p: 3.100000e-01 in r: 22
+Average RSE - tSVD: 0.78 za p: 3.100000e-01 in r: 22
+Average PSNR - tSVD: 6.74 za p: 4.100000e-01 in r: 22
+Time - tSVD: 136.85 za p: 4.100000e-01 in r: 22
+Average RSE - tSVD: 0.71 za p: 4.100000e-01 in r: 22
+Average PSNR - tSVD: 7.50 za p: 5.100000e-01 in r: 22
+Time - tSVD: 137.22 za p: 5.100000e-01 in r: 22
+Average RSE - tSVD: 0.63 za p: 5.100000e-01 in r: 22
+Average PSNR - tSVD: 8.78 za p: 6.100000e-01 in r: 22
+Time - tSVD: 137.41 za p: 6.100000e-01 in r: 22
+Average RSE - tSVD: 0.55 za p: 6.100000e-01 in r: 22
+Average PSNR - tSVD: 10.26 za p: 7.100000e-01 in r: 22
+Time - tSVD: 138.39 za p: 7.100000e-01 in r: 22
+Average RSE - tSVD: 0.46 za p: 7.100000e-01 in r: 22
+Average PSNR - tSVD: 12.53 za p: 8.100000e-01 in r: 22
+Time - tSVD: 136.71 za p: 8.100000e-01 in r: 22
+Average RSE - tSVD: 0.35 za p: 8.100000e-01 in r: 22
+Average PSNR - tSVD: 17.09 za p: 9.100000e-01 in r: 22
+Time - tSVD: 138.61 za p: 9.100000e-01 in r: 22
+Average RSE - tSVD: 0.21 za p: 9.100000e-01 in r: 22
+Average PSNR - tSVD: 3.66 za p: 1.000000e-02 in r: 25
+Time - tSVD: 136.74 za p: 1.000000e-02 in r: 25
+Average RSE - tSVD: 0.99 za p: 1.000000e-02 in r: 25
+Average PSNR - tSVD: 4.13 za p: 1.100000e-01 in r: 25
+Time - tSVD: 136.79 za p: 1.100000e-01 in r: 25
+Average RSE - tSVD: 0.92 za p: 1.100000e-01 in r: 25
+Average PSNR - tSVD: 4.64 za p: 2.100000e-01 in r: 25
+Time - tSVD: 135.92 za p: 2.100000e-01 in r: 25
+Average RSE - tSVD: 0.85 za p: 2.100000e-01 in r: 25
+Average PSNR - tSVD: 5.48 za p: 3.100000e-01 in r: 25
+Time - tSVD: 135.62 za p: 3.100000e-01 in r: 25
+Average RSE - tSVD: 0.79 za p: 3.100000e-01 in r: 25
+Average PSNR - tSVD: 6.31 za p: 4.100000e-01 in r: 25
+Time - tSVD: 136.11 za p: 4.100000e-01 in r: 25
+Average RSE - tSVD: 0.72 za p: 4.100000e-01 in r: 25
+Average PSNR - tSVD: 7.26 za p: 5.100000e-01 in r: 25
+Time - tSVD: 136.10 za p: 5.100000e-01 in r: 25
+Average RSE - tSVD: 0.64 za p: 5.100000e-01 in r: 25
+Average PSNR - tSVD: 8.50 za p: 6.100000e-01 in r: 25
+Time - tSVD: 135.53 za p: 6.100000e-01 in r: 25
+Average RSE - tSVD: 0.56 za p: 6.100000e-01 in r: 25
+Average PSNR - tSVD: 10.06 za p: 7.100000e-01 in r: 25
+Time - tSVD: 135.90 za p: 7.100000e-01 in r: 25
+Average RSE - tSVD: 0.47 za p: 7.100000e-01 in r: 25
+Average PSNR - tSVD: 12.19 za p: 8.100000e-01 in r: 25
+Time - tSVD: 137.48 za p: 8.100000e-01 in r: 25
+Average RSE - tSVD: 0.36 za p: 8.100000e-01 in r: 25
+Average PSNR - tSVD: 16.50 za p: 9.100000e-01 in r: 25
+Time - tSVD: 136.77 za p: 9.100000e-01 in r: 25
+Average RSE - tSVD: 0.22 za p: 9.100000e-01 in r: 25
+Average PSNR - tSVD: 3.29 za p: 1.000000e-02 in r: 28
+Time - tSVD: 147.87 za p: 1.000000e-02 in r: 28
+Average RSE - tSVD: 0.99 za p: 1.000000e-02 in r: 28
+Average PSNR - tSVD: 3.99 za p: 1.100000e-01 in r: 28
+Time - tSVD: 149.73 za p: 1.100000e-01 in r: 28
+Average RSE - tSVD: 0.92 za p: 1.100000e-01 in r: 28
+Average PSNR - tSVD: 4.57 za p: 2.100000e-01 in r: 28
+Time - tSVD: 145.47 za p: 2.100000e-01 in r: 28
+Average RSE - tSVD: 0.86 za p: 2.100000e-01 in r: 28
+Average PSNR - tSVD: 5.26 za p: 3.100000e-01 in r: 28
+Time - tSVD: 145.17 za p: 3.100000e-01 in r: 28
+Average RSE - tSVD: 0.79 za p: 3.100000e-01 in r: 28
+Average PSNR - tSVD: 6.01 za p: 4.100000e-01 in r: 28
+Time - tSVD: 144.34 za p: 4.100000e-01 in r: 28
+Average RSE - tSVD: 0.73 za p: 4.100000e-01 in r: 28
+Average PSNR - tSVD: 6.88 za p: 5.100000e-01 in r: 28
+Time - tSVD: 138.02 za p: 5.100000e-01 in r: 28
+Average RSE - tSVD: 0.65 za p: 5.100000e-01 in r: 28
+Average PSNR - tSVD: 8.12 za p: 6.100000e-01 in r: 28
+Time - tSVD: 137.02 za p: 6.100000e-01 in r: 28
+Average RSE - tSVD: 0.57 za p: 6.100000e-01 in r: 28
+Average PSNR - tSVD: 9.69 za p: 7.100000e-01 in r: 28
+Time - tSVD: 138.00 za p: 7.100000e-01 in r: 28
+Average RSE - tSVD: 0.48 za p: 7.100000e-01 in r: 28
+Average PSNR - tSVD: 11.80 za p: 8.100000e-01 in r: 28
+Time - tSVD: 136.58 za p: 8.100000e-01 in r: 28
+Average RSE - tSVD: 0.37 za p: 8.100000e-01 in r: 28
+Average PSNR - tSVD: 16.05 za p: 9.100000e-01 in r: 28
+Time - tSVD: 137.26 za p: 9.100000e-01 in r: 28
+Average RSE - tSVD: 0.23 za p: 9.100000e-01 in r: 28

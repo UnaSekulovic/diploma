@@ -1,0 +1,300 @@
+Average PSNR - Wang: 10.18 za p: 1.000000e-02 in r: 1
+Time - Wang: 149.21 za p: 1.000000e-02 in r: 1
+Average RSE - Wang: 0.95 za p: 1.000000e-02 in r: 1
+Average PSNR - Wang: 16.19 za p: 1.100000e-01 in r: 1
+Time - Wang: 151.57 za p: 1.100000e-01 in r: 1
+Average RSE - Wang: 0.48 za p: 1.100000e-01 in r: 1
+Average PSNR - Wang: 23.98 za p: 2.100000e-01 in r: 1
+Time - Wang: 143.19 za p: 2.100000e-01 in r: 1
+Average RSE - Wang: 0.19 za p: 2.100000e-01 in r: 1
+Average PSNR - Wang: 43.29 za p: 3.100000e-01 in r: 1
+Time - Wang: 144.13 za p: 3.100000e-01 in r: 1
+Average RSE - Wang: 0.02 za p: 3.100000e-01 in r: 1
+Average PSNR - Wang: 58.49 za p: 4.100000e-01 in r: 1
+Time - Wang: 143.84 za p: 4.100000e-01 in r: 1
+Average RSE - Wang: 0.00 za p: 4.100000e-01 in r: 1
+Average PSNR - Wang: 61.18 za p: 5.100000e-01 in r: 1
+Time - Wang: 118.05 za p: 5.100000e-01 in r: 1
+Average RSE - Wang: 0.00 za p: 5.100000e-01 in r: 1
+Average PSNR - Wang: 63.83 za p: 6.100000e-01 in r: 1
+Time - Wang: 92.74 za p: 6.100000e-01 in r: 1
+Average RSE - Wang: 0.00 za p: 6.100000e-01 in r: 1
+Average PSNR - Wang: 66.45 za p: 7.100000e-01 in r: 1
+Time - Wang: 72.81 za p: 7.100000e-01 in r: 1
+Average RSE - Wang: 0.00 za p: 7.100000e-01 in r: 1
+Average PSNR - Wang: 69.60 za p: 8.100000e-01 in r: 1
+Time - Wang: 57.60 za p: 8.100000e-01 in r: 1
+Average RSE - Wang: 0.00 za p: 8.100000e-01 in r: 1
+Average PSNR - Wang: 73.85 za p: 9.100000e-01 in r: 1
+Time - Wang: 37.85 za p: 9.100000e-01 in r: 1
+Average RSE - Wang: 0.00 za p: 9.100000e-01 in r: 1
+Average PSNR - Wang: 7.00 za p: 1.000000e-02 in r: 4
+Time - Wang: 144.03 za p: 1.000000e-02 in r: 4
+Average RSE - Wang: 0.98 za p: 1.000000e-02 in r: 4
+Average PSNR - Wang: 8.86 za p: 1.100000e-01 in r: 4
+Time - Wang: 145.20 za p: 1.100000e-01 in r: 4
+Average RSE - Wang: 0.78 za p: 1.100000e-01 in r: 4
+Average PSNR - Wang: 10.79 za p: 2.100000e-01 in r: 4
+Time - Wang: 145.39 za p: 2.100000e-01 in r: 4
+Average RSE - Wang: 0.64 za p: 2.100000e-01 in r: 4
+Average PSNR - Wang: 12.89 za p: 3.100000e-01 in r: 4
+Time - Wang: 146.38 za p: 3.100000e-01 in r: 4
+Average RSE - Wang: 0.51 za p: 3.100000e-01 in r: 4
+Average PSNR - Wang: 14.97 za p: 4.100000e-01 in r: 4
+Time - Wang: 166.27 za p: 4.100000e-01 in r: 4
+Average RSE - Wang: 0.39 za p: 4.100000e-01 in r: 4
+Average PSNR - Wang: 18.27 za p: 5.100000e-01 in r: 4
+Time - Wang: 145.57 za p: 5.100000e-01 in r: 4
+Average RSE - Wang: 0.27 za p: 5.100000e-01 in r: 4
+Average PSNR - Wang: 23.43 za p: 6.100000e-01 in r: 4
+Time - Wang: 145.39 za p: 6.100000e-01 in r: 4
+Average RSE - Wang: 0.15 za p: 6.100000e-01 in r: 4
+Average PSNR - Wang: 34.14 za p: 7.100000e-01 in r: 4
+Time - Wang: 145.02 za p: 7.100000e-01 in r: 4
+Average RSE - Wang: 0.04 za p: 7.100000e-01 in r: 4
+Average PSNR - Wang: 68.02 za p: 8.100000e-01 in r: 4
+Time - Wang: 145.02 za p: 8.100000e-01 in r: 4
+Average RSE - Wang: 0.00 za p: 8.100000e-01 in r: 4
+Average PSNR - Wang: 75.71 za p: 9.100000e-01 in r: 4
+Time - Wang: 105.48 za p: 9.100000e-01 in r: 4
+Average RSE - Wang: 0.00 za p: 9.100000e-01 in r: 4
+Average PSNR - Wang: 5.75 za p: 1.000000e-02 in r: 7
+Time - Wang: 144.23 za p: 1.000000e-02 in r: 7
+Average RSE - Wang: 0.98 za p: 1.000000e-02 in r: 7
+Average PSNR - Wang: 7.27 za p: 1.100000e-01 in r: 7
+Time - Wang: 145.42 za p: 1.100000e-01 in r: 7
+Average RSE - Wang: 0.84 za p: 1.100000e-01 in r: 7
+Average PSNR - Wang: 8.31 za p: 2.100000e-01 in r: 7
+Time - Wang: 145.65 za p: 2.100000e-01 in r: 7
+Average RSE - Wang: 0.73 za p: 2.100000e-01 in r: 7
+Average PSNR - Wang: 9.56 za p: 3.100000e-01 in r: 7
+Time - Wang: 150.07 za p: 3.100000e-01 in r: 7
+Average RSE - Wang: 0.63 za p: 3.100000e-01 in r: 7
+Average PSNR - Wang: 11.24 za p: 4.100000e-01 in r: 7
+Time - Wang: 148.42 za p: 4.100000e-01 in r: 7
+Average RSE - Wang: 0.53 za p: 4.100000e-01 in r: 7
+Average PSNR - Wang: 13.04 za p: 5.100000e-01 in r: 7
+Time - Wang: 151.01 za p: 5.100000e-01 in r: 7
+Average RSE - Wang: 0.43 za p: 5.100000e-01 in r: 7
+Average PSNR - Wang: 15.26 za p: 6.100000e-01 in r: 7
+Time - Wang: 144.84 za p: 6.100000e-01 in r: 7
+Average RSE - Wang: 0.33 za p: 6.100000e-01 in r: 7
+Average PSNR - Wang: 18.78 za p: 7.100000e-01 in r: 7
+Time - Wang: 144.88 za p: 7.100000e-01 in r: 7
+Average RSE - Wang: 0.22 za p: 7.100000e-01 in r: 7
+Average PSNR - Wang: 26.05 za p: 8.100000e-01 in r: 7
+Time - Wang: 144.90 za p: 8.100000e-01 in r: 7
+Average RSE - Wang: 0.10 za p: 8.100000e-01 in r: 7
+Average PSNR - Wang: 61.51 za p: 9.100000e-01 in r: 7
+Time - Wang: 144.87 za p: 9.100000e-01 in r: 7
+Average RSE - Wang: 0.00 za p: 9.100000e-01 in r: 7
+Average PSNR - Wang: 4.96 za p: 1.000000e-02 in r: 10
+Time - Wang: 144.98 za p: 1.000000e-02 in r: 10
+Average RSE - Wang: 0.99 za p: 1.000000e-02 in r: 10
+Average PSNR - Wang: 6.12 za p: 1.100000e-01 in r: 10
+Time - Wang: 145.61 za p: 1.100000e-01 in r: 10
+Average RSE - Wang: 0.87 za p: 1.100000e-01 in r: 10
+Average PSNR - Wang: 7.02 za p: 2.100000e-01 in r: 10
+Time - Wang: 145.94 za p: 2.100000e-01 in r: 10
+Average RSE - Wang: 0.78 za p: 2.100000e-01 in r: 10
+Average PSNR - Wang: 8.27 za p: 3.100000e-01 in r: 10
+Time - Wang: 146.16 za p: 3.100000e-01 in r: 10
+Average RSE - Wang: 0.69 za p: 3.100000e-01 in r: 10
+Average PSNR - Wang: 9.48 za p: 4.100000e-01 in r: 10
+Time - Wang: 145.91 za p: 4.100000e-01 in r: 10
+Average RSE - Wang: 0.60 za p: 4.100000e-01 in r: 10
+Average PSNR - Wang: 10.77 za p: 5.100000e-01 in r: 10
+Time - Wang: 146.07 za p: 5.100000e-01 in r: 10
+Average RSE - Wang: 0.51 za p: 5.100000e-01 in r: 10
+Average PSNR - Wang: 12.61 za p: 6.100000e-01 in r: 10
+Time - Wang: 146.29 za p: 6.100000e-01 in r: 10
+Average RSE - Wang: 0.41 za p: 6.100000e-01 in r: 10
+Average PSNR - Wang: 15.28 za p: 7.100000e-01 in r: 10
+Time - Wang: 148.45 za p: 7.100000e-01 in r: 10
+Average RSE - Wang: 0.30 za p: 7.100000e-01 in r: 10
+Average PSNR - Wang: 19.50 za p: 8.100000e-01 in r: 10
+Time - Wang: 146.09 za p: 8.100000e-01 in r: 10
+Average RSE - Wang: 0.19 za p: 8.100000e-01 in r: 10
+Average PSNR - Wang: 31.78 za p: 9.100000e-01 in r: 10
+Time - Wang: 145.68 za p: 9.100000e-01 in r: 10
+Average RSE - Wang: 0.05 za p: 9.100000e-01 in r: 10
+Average PSNR - Wang: 4.42 za p: 1.000000e-02 in r: 13
+Time - Wang: 144.79 za p: 1.000000e-02 in r: 13
+Average RSE - Wang: 0.99 za p: 1.000000e-02 in r: 13
+Average PSNR - Wang: 5.66 za p: 1.100000e-01 in r: 13
+Time - Wang: 145.39 za p: 1.100000e-01 in r: 13
+Average RSE - Wang: 0.88 za p: 1.100000e-01 in r: 13
+Average PSNR - Wang: 6.30 za p: 2.100000e-01 in r: 13
+Time - Wang: 146.23 za p: 2.100000e-01 in r: 13
+Average RSE - Wang: 0.80 za p: 2.100000e-01 in r: 13
+Average PSNR - Wang: 7.26 za p: 3.100000e-01 in r: 13
+Time - Wang: 146.33 za p: 3.100000e-01 in r: 13
+Average RSE - Wang: 0.72 za p: 3.100000e-01 in r: 13
+Average PSNR - Wang: 8.27 za p: 4.100000e-01 in r: 13
+Time - Wang: 146.08 za p: 4.100000e-01 in r: 13
+Average RSE - Wang: 0.64 za p: 4.100000e-01 in r: 13
+Average PSNR - Wang: 9.60 za p: 5.100000e-01 in r: 13
+Time - Wang: 146.28 za p: 5.100000e-01 in r: 13
+Average RSE - Wang: 0.55 za p: 5.100000e-01 in r: 13
+Average PSNR - Wang: 11.40 za p: 6.100000e-01 in r: 13
+Time - Wang: 146.00 za p: 6.100000e-01 in r: 13
+Average RSE - Wang: 0.46 za p: 6.100000e-01 in r: 13
+Average PSNR - Wang: 13.35 za p: 7.100000e-01 in r: 13
+Time - Wang: 145.93 za p: 7.100000e-01 in r: 13
+Average RSE - Wang: 0.35 za p: 7.100000e-01 in r: 13
+Average PSNR - Wang: 16.82 za p: 8.100000e-01 in r: 13
+Time - Wang: 146.27 za p: 8.100000e-01 in r: 13
+Average RSE - Wang: 0.24 za p: 8.100000e-01 in r: 13
+Average PSNR - Wang: 24.97 za p: 9.100000e-01 in r: 13
+Time - Wang: 145.97 za p: 9.100000e-01 in r: 13
+Average RSE - Wang: 0.09 za p: 9.100000e-01 in r: 13
+Average PSNR - Wang: 4.25 za p: 1.000000e-02 in r: 16
+Time - Wang: 144.80 za p: 1.000000e-02 in r: 16
+Average RSE - Wang: 0.99 za p: 1.000000e-02 in r: 16
+Average PSNR - Wang: 4.96 za p: 1.100000e-01 in r: 16
+Time - Wang: 146.12 za p: 1.100000e-01 in r: 16
+Average RSE - Wang: 0.89 za p: 1.100000e-01 in r: 16
+Average PSNR - Wang: 5.93 za p: 2.100000e-01 in r: 16
+Time - Wang: 146.43 za p: 2.100000e-01 in r: 16
+Average RSE - Wang: 0.82 za p: 2.100000e-01 in r: 16
+Average PSNR - Wang: 6.74 za p: 3.100000e-01 in r: 16
+Time - Wang: 150.30 za p: 3.100000e-01 in r: 16
+Average RSE - Wang: 0.74 za p: 3.100000e-01 in r: 16
+Average PSNR - Wang: 7.63 za p: 4.100000e-01 in r: 16
+Time - Wang: 146.23 za p: 4.100000e-01 in r: 16
+Average RSE - Wang: 0.66 za p: 4.100000e-01 in r: 16
+Average PSNR - Wang: 8.94 za p: 5.100000e-01 in r: 16
+Time - Wang: 147.57 za p: 5.100000e-01 in r: 16
+Average RSE - Wang: 0.58 za p: 5.100000e-01 in r: 16
+Average PSNR - Wang: 10.35 za p: 6.100000e-01 in r: 16
+Time - Wang: 145.46 za p: 6.100000e-01 in r: 16
+Average RSE - Wang: 0.49 za p: 6.100000e-01 in r: 16
+Average PSNR - Wang: 12.38 za p: 7.100000e-01 in r: 16
+Time - Wang: 146.54 za p: 7.100000e-01 in r: 16
+Average RSE - Wang: 0.39 za p: 7.100000e-01 in r: 16
+Average PSNR - Wang: 15.32 za p: 8.100000e-01 in r: 16
+Time - Wang: 145.23 za p: 8.100000e-01 in r: 16
+Average RSE - Wang: 0.27 za p: 8.100000e-01 in r: 16
+Average PSNR - Wang: 21.93 za p: 9.100000e-01 in r: 16
+Time - Wang: 145.28 za p: 9.100000e-01 in r: 16
+Average RSE - Wang: 0.13 za p: 9.100000e-01 in r: 16
+Average PSNR - Wang: 3.84 za p: 1.000000e-02 in r: 19
+Time - Wang: 145.84 za p: 1.000000e-02 in r: 19
+Average RSE - Wang: 0.99 za p: 1.000000e-02 in r: 19
+Average PSNR - Wang: 4.49 za p: 1.100000e-01 in r: 19
+Time - Wang: 177.69 za p: 1.100000e-01 in r: 19
+Average RSE - Wang: 0.90 za p: 1.100000e-01 in r: 19
+Average PSNR - Wang: 5.44 za p: 2.100000e-01 in r: 19
+Time - Wang: 176.14 za p: 2.100000e-01 in r: 19
+Average RSE - Wang: 0.83 za p: 2.100000e-01 in r: 19
+Average PSNR - Wang: 6.26 za p: 3.100000e-01 in r: 19
+Time - Wang: 156.38 za p: 3.100000e-01 in r: 19
+Average RSE - Wang: 0.75 za p: 3.100000e-01 in r: 19
+Average PSNR - Wang: 7.23 za p: 4.100000e-01 in r: 19
+Time - Wang: 145.72 za p: 4.100000e-01 in r: 19
+Average RSE - Wang: 0.68 za p: 4.100000e-01 in r: 19
+Average PSNR - Wang: 8.33 za p: 5.100000e-01 in r: 19
+Time - Wang: 147.46 za p: 5.100000e-01 in r: 19
+Average RSE - Wang: 0.59 za p: 5.100000e-01 in r: 19
+Average PSNR - Wang: 9.81 za p: 6.100000e-01 in r: 19
+Time - Wang: 147.87 za p: 6.100000e-01 in r: 19
+Average RSE - Wang: 0.51 za p: 6.100000e-01 in r: 19
+Average PSNR - Wang: 11.60 za p: 7.100000e-01 in r: 19
+Time - Wang: 145.76 za p: 7.100000e-01 in r: 19
+Average RSE - Wang: 0.41 za p: 7.100000e-01 in r: 19
+Average PSNR - Wang: 14.38 za p: 8.100000e-01 in r: 19
+Time - Wang: 145.37 za p: 8.100000e-01 in r: 19
+Average RSE - Wang: 0.30 za p: 8.100000e-01 in r: 19
+Average PSNR - Wang: 20.04 za p: 9.100000e-01 in r: 19
+Time - Wang: 146.16 za p: 9.100000e-01 in r: 19
+Average RSE - Wang: 0.15 za p: 9.100000e-01 in r: 19
+Average PSNR - Wang: 3.60 za p: 1.000000e-02 in r: 22
+Time - Wang: 145.64 za p: 1.000000e-02 in r: 22
+Average RSE - Wang: 0.99 za p: 1.000000e-02 in r: 22
+Average PSNR - Wang: 4.52 za p: 1.100000e-01 in r: 22
+Time - Wang: 146.51 za p: 1.100000e-01 in r: 22
+Average RSE - Wang: 0.91 za p: 1.100000e-01 in r: 22
+Average PSNR - Wang: 5.13 za p: 2.100000e-01 in r: 22
+Time - Wang: 146.39 za p: 2.100000e-01 in r: 22
+Average RSE - Wang: 0.83 za p: 2.100000e-01 in r: 22
+Average PSNR - Wang: 6.02 za p: 3.100000e-01 in r: 22
+Time - Wang: 146.70 za p: 3.100000e-01 in r: 22
+Average RSE - Wang: 0.76 za p: 3.100000e-01 in r: 22
+Average PSNR - Wang: 6.84 za p: 4.100000e-01 in r: 22
+Time - Wang: 164.12 za p: 4.100000e-01 in r: 22
+Average RSE - Wang: 0.69 za p: 4.100000e-01 in r: 22
+Average PSNR - Wang: 7.91 za p: 5.100000e-01 in r: 22
+Time - Wang: 146.46 za p: 5.100000e-01 in r: 22
+Average RSE - Wang: 0.61 za p: 5.100000e-01 in r: 22
+Average PSNR - Wang: 9.19 za p: 6.100000e-01 in r: 22
+Time - Wang: 146.41 za p: 6.100000e-01 in r: 22
+Average RSE - Wang: 0.52 za p: 6.100000e-01 in r: 22
+Average PSNR - Wang: 10.95 za p: 7.100000e-01 in r: 22
+Time - Wang: 146.18 za p: 7.100000e-01 in r: 22
+Average RSE - Wang: 0.43 za p: 7.100000e-01 in r: 22
+Average PSNR - Wang: 13.49 za p: 8.100000e-01 in r: 22
+Time - Wang: 146.32 za p: 8.100000e-01 in r: 22
+Average RSE - Wang: 0.32 za p: 8.100000e-01 in r: 22
+Average PSNR - Wang: 18.80 za p: 9.100000e-01 in r: 22
+Time - Wang: 145.73 za p: 9.100000e-01 in r: 22
+Average RSE - Wang: 0.17 za p: 9.100000e-01 in r: 22
+Average PSNR - Wang: 3.40 za p: 1.000000e-02 in r: 25
+Time - Wang: 145.78 za p: 1.000000e-02 in r: 25
+Average RSE - Wang: 0.99 za p: 1.000000e-02 in r: 25
+Average PSNR - Wang: 4.22 za p: 1.100000e-01 in r: 25
+Time - Wang: 146.33 za p: 1.100000e-01 in r: 25
+Average RSE - Wang: 0.91 za p: 1.100000e-01 in r: 25
+Average PSNR - Wang: 4.83 za p: 2.100000e-01 in r: 25
+Time - Wang: 146.59 za p: 2.100000e-01 in r: 25
+Average RSE - Wang: 0.84 za p: 2.100000e-01 in r: 25
+Average PSNR - Wang: 5.56 za p: 3.100000e-01 in r: 25
+Time - Wang: 151.62 za p: 3.100000e-01 in r: 25
+Average RSE - Wang: 0.77 za p: 3.100000e-01 in r: 25
+Average PSNR - Wang: 6.51 za p: 4.100000e-01 in r: 25
+Time - Wang: 146.31 za p: 4.100000e-01 in r: 25
+Average RSE - Wang: 0.70 za p: 4.100000e-01 in r: 25
+Average PSNR - Wang: 7.51 za p: 5.100000e-01 in r: 25
+Time - Wang: 146.60 za p: 5.100000e-01 in r: 25
+Average RSE - Wang: 0.62 za p: 5.100000e-01 in r: 25
+Average PSNR - Wang: 8.82 za p: 6.100000e-01 in r: 25
+Time - Wang: 146.75 za p: 6.100000e-01 in r: 25
+Average RSE - Wang: 0.54 za p: 6.100000e-01 in r: 25
+Average PSNR - Wang: 10.49 za p: 7.100000e-01 in r: 25
+Time - Wang: 146.19 za p: 7.100000e-01 in r: 25
+Average RSE - Wang: 0.44 za p: 7.100000e-01 in r: 25
+Average PSNR - Wang: 13.06 za p: 8.100000e-01 in r: 25
+Time - Wang: 146.13 za p: 8.100000e-01 in r: 25
+Average RSE - Wang: 0.33 za p: 8.100000e-01 in r: 25
+Average PSNR - Wang: 17.90 za p: 9.100000e-01 in r: 25
+Time - Wang: 145.97 za p: 9.100000e-01 in r: 25
+Average RSE - Wang: 0.19 za p: 9.100000e-01 in r: 25
+Average PSNR - Wang: 3.36 za p: 1.000000e-02 in r: 28
+Time - Wang: 145.83 za p: 1.000000e-02 in r: 28
+Average RSE - Wang: 0.99 za p: 1.000000e-02 in r: 28
+Average PSNR - Wang: 3.98 za p: 1.100000e-01 in r: 28
+Time - Wang: 146.56 za p: 1.100000e-01 in r: 28
+Average RSE - Wang: 0.91 za p: 1.100000e-01 in r: 28
+Average PSNR - Wang: 4.66 za p: 2.100000e-01 in r: 28
+Time - Wang: 148.51 za p: 2.100000e-01 in r: 28
+Average RSE - Wang: 0.85 za p: 2.100000e-01 in r: 28
+Average PSNR - Wang: 5.48 za p: 3.100000e-01 in r: 28
+Time - Wang: 146.29 za p: 3.100000e-01 in r: 28
+Average RSE - Wang: 0.78 za p: 3.100000e-01 in r: 28
+Average PSNR - Wang: 6.23 za p: 4.100000e-01 in r: 28
+Time - Wang: 146.62 za p: 4.100000e-01 in r: 28
+Average RSE - Wang: 0.70 za p: 4.100000e-01 in r: 28
+Average PSNR - Wang: 7.34 za p: 5.100000e-01 in r: 28
+Time - Wang: 149.79 za p: 5.100000e-01 in r: 28
+Average RSE - Wang: 0.63 za p: 5.100000e-01 in r: 28
+Average PSNR - Wang: 8.54 za p: 6.100000e-01 in r: 28
+Time - Wang: 146.50 za p: 6.100000e-01 in r: 28
+Average RSE - Wang: 0.54 za p: 6.100000e-01 in r: 28
+Average PSNR - Wang: 10.13 za p: 7.100000e-01 in r: 28
+Time - Wang: 146.36 za p: 7.100000e-01 in r: 28
+Average RSE - Wang: 0.45 za p: 7.100000e-01 in r: 28
+Average PSNR - Wang: 12.53 za p: 8.100000e-01 in r: 28
+Time - Wang: 145.99 za p: 8.100000e-01 in r: 28
+Average RSE - Wang: 0.34 za p: 8.100000e-01 in r: 28
+Average PSNR - Wang: 17.03 za p: 9.100000e-01 in r: 28
+Time - Wang: 240.79 za p: 9.100000e-01 in r: 28
+Average RSE - Wang: 0.20 za p: 9.100000e-01 in r: 28

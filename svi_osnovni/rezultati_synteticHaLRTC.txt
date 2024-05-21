@@ -1,0 +1,240 @@
+Povprečni PSNR - HaLRTC: 9.61 za p: 1.000000e-02 in r: 7
+Čas - HaLRTC: 402.52 za p: 1.000000e-02 in r: 7
+Povprečni RSE - HaLRTC: 0.99 za p: 1.000000e-02 in r: 7
+Povprečni PSNR - HaLRTC: 10.05 za p: 1.100000e-01 in r: 7
+Čas - HaLRTC: 407.13 za p: 1.100000e-01 in r: 7
+Povprečni RSE - HaLRTC: 0.94 za p: 1.100000e-01 in r: 7
+Povprečni PSNR - HaLRTC: 10.55 za p: 2.100000e-01 in r: 7
+Čas - HaLRTC: 385.76 za p: 2.100000e-01 in r: 7
+Povprečni RSE - HaLRTC: 0.89 za p: 2.100000e-01 in r: 7
+Povprečni PSNR - HaLRTC: 11.15 za p: 3.100000e-01 in r: 7
+Čas - HaLRTC: 379.84 za p: 3.100000e-01 in r: 7
+Povprečni RSE - HaLRTC: 0.83 za p: 3.100000e-01 in r: 7
+Povprečni PSNR - HaLRTC: 11.84 za p: 4.100000e-01 in r: 7
+Čas - HaLRTC: 371.90 za p: 4.100000e-01 in r: 7
+Povprečni RSE - HaLRTC: 0.77 za p: 4.100000e-01 in r: 7
+Povprečni PSNR - HaLRTC: 12.67 za p: 5.100000e-01 in r: 7
+Čas - HaLRTC: 382.61 za p: 5.100000e-01 in r: 7
+Povprečni RSE - HaLRTC: 0.70 za p: 5.100000e-01 in r: 7
+Povprečni PSNR - HaLRTC: 13.67 za p: 6.100000e-01 in r: 7
+Čas - HaLRTC: 364.57 za p: 6.100000e-01 in r: 7
+Povprečni RSE - HaLRTC: 0.62 za p: 6.100000e-01 in r: 7
+Povprečni PSNR - HaLRTC: 14.90 za p: 7.100000e-01 in r: 7
+Čas - HaLRTC: 365.48 za p: 7.100000e-01 in r: 7
+Povprečni RSE - HaLRTC: 0.54 za p: 7.100000e-01 in r: 7
+Povprečni PSNR - HaLRTC: 16.79 za p: 8.100000e-01 in r: 7
+Čas - HaLRTC: 370.82 za p: 8.100000e-01 in r: 7
+Povprečni RSE - HaLRTC: 0.44 za p: 8.100000e-01 in r: 7
+Povprečni PSNR - HaLRTC: 19.99 za p: 9.100000e-01 in r: 7
+Čas - HaLRTC: 369.86 za p: 9.100000e-01 in r: 7
+Povprečni RSE - HaLRTC: 0.30 za p: 9.100000e-01 in r: 7
+Povprečni PSNR - HaLRTC: 5.21 za p: 1.000000e-02 in r: 10
+Čas - HaLRTC: 120.86 za p: 1.000000e-02 in r: 10
+Povprečni RSE - HaLRTC: 0.99 za p: 1.000000e-02 in r: 10
+Povprečni PSNR - HaLRTC: 5.99 za p: 1.100000e-01 in r: 10
+Čas - HaLRTC: 129.30 za p: 1.100000e-01 in r: 10
+Povprečni RSE - HaLRTC: 0.90 za p: 1.100000e-01 in r: 10
+Povprečni PSNR - HaLRTC: 6.56 za p: 2.100000e-01 in r: 10
+Čas - HaLRTC: 137.39 za p: 2.100000e-01 in r: 10
+Povprečni RSE - HaLRTC: 0.82 za p: 2.100000e-01 in r: 10
+Povprečni PSNR - HaLRTC: 7.37 za p: 3.100000e-01 in r: 10
+Čas - HaLRTC: 122.99 za p: 3.100000e-01 in r: 10
+Povprečni RSE - HaLRTC: 0.75 za p: 3.100000e-01 in r: 10
+Povprečni PSNR - HaLRTC: 8.41 za p: 4.100000e-01 in r: 10
+Čas - HaLRTC: 111.88 za p: 4.100000e-01 in r: 10
+Povprečni RSE - HaLRTC: 0.67 za p: 4.100000e-01 in r: 10
+Povprečni PSNR - HaLRTC: 9.63 za p: 5.100000e-01 in r: 10
+Čas - HaLRTC: 112.15 za p: 5.100000e-01 in r: 10
+Povprečni RSE - HaLRTC: 0.59 za p: 5.100000e-01 in r: 10
+Povprečni PSNR - HaLRTC: 10.92 za p: 6.100000e-01 in r: 10
+Čas - HaLRTC: 112.09 za p: 6.100000e-01 in r: 10
+Povprečni RSE - HaLRTC: 0.50 za p: 6.100000e-01 in r: 10
+Povprečni PSNR - HaLRTC: 12.83 za p: 7.100000e-01 in r: 10
+Čas - HaLRTC: 113.64 za p: 7.100000e-01 in r: 10
+Povprečni RSE - HaLRTC: 0.41 za p: 7.100000e-01 in r: 10
+Povprečni PSNR - HaLRTC: 15.74 za p: 8.100000e-01 in r: 10
+Čas - HaLRTC: 112.07 za p: 8.100000e-01 in r: 10
+Povprečni RSE - HaLRTC: 0.29 za p: 8.100000e-01 in r: 10
+Povprečni PSNR - HaLRTC: 21.38 za p: 9.100000e-01 in r: 10
+Čas - HaLRTC: 111.90 za p: 9.100000e-01 in r: 10
+Povprečni RSE - HaLRTC: 0.15 za p: 9.100000e-01 in r: 10
+Povprečni PSNR - HaLRTC: 4.49 za p: 1.000000e-02 in r: 13
+Čas - HaLRTC: 112.79 za p: 1.000000e-02 in r: 13
+Povprečni RSE - HaLRTC: 0.99 za p: 1.000000e-02 in r: 13
+Povprečni PSNR - HaLRTC: 5.46 za p: 1.100000e-01 in r: 13
+Čas - HaLRTC: 112.88 za p: 1.100000e-01 in r: 13
+Povprečni RSE - HaLRTC: 0.91 za p: 1.100000e-01 in r: 13
+Povprečni PSNR - HaLRTC: 5.99 za p: 2.100000e-01 in r: 13
+Čas - HaLRTC: 113.62 za p: 2.100000e-01 in r: 13
+Povprečni RSE - HaLRTC: 0.84 za p: 2.100000e-01 in r: 13
+Povprečni PSNR - HaLRTC: 6.78 za p: 3.100000e-01 in r: 13
+Čas - HaLRTC: 113.28 za p: 3.100000e-01 in r: 13
+Povprečni RSE - HaLRTC: 0.77 za p: 3.100000e-01 in r: 13
+Povprečni PSNR - HaLRTC: 7.64 za p: 4.100000e-01 in r: 13
+Čas - HaLRTC: 125.72 za p: 4.100000e-01 in r: 13
+Povprečni RSE - HaLRTC: 0.69 za p: 4.100000e-01 in r: 13
+Povprečni PSNR - HaLRTC: 8.67 za p: 5.100000e-01 in r: 13
+Čas - HaLRTC: 115.05 za p: 5.100000e-01 in r: 13
+Povprečni RSE - HaLRTC: 0.61 za p: 5.100000e-01 in r: 13
+Povprečni PSNR - HaLRTC: 10.15 za p: 6.100000e-01 in r: 13
+Čas - HaLRTC: 113.08 za p: 6.100000e-01 in r: 13
+Povprečni RSE - HaLRTC: 0.53 za p: 6.100000e-01 in r: 13
+Povprečni PSNR - HaLRTC: 11.70 za p: 7.100000e-01 in r: 13
+Čas - HaLRTC: 112.73 za p: 7.100000e-01 in r: 13
+Povprečni RSE - HaLRTC: 0.44 za p: 7.100000e-01 in r: 13
+Povprečni PSNR - HaLRTC: 14.27 za p: 8.100000e-01 in r: 13
+Čas - HaLRTC: 113.14 za p: 8.100000e-01 in r: 13
+Povprečni RSE - HaLRTC: 0.33 za p: 8.100000e-01 in r: 13
+Povprečni PSNR - HaLRTC: 19.26 za p: 9.100000e-01 in r: 13
+Čas - HaLRTC: 112.87 za p: 9.100000e-01 in r: 13
+Povprečni RSE - HaLRTC: 0.18 za p: 9.100000e-01 in r: 13
+Povprečni PSNR - HaLRTC: 4.24 za p: 1.000000e-02 in r: 16
+Čas - HaLRTC: 112.77 za p: 1.000000e-02 in r: 16
+Povprečni RSE - HaLRTC: 0.99 za p: 1.000000e-02 in r: 16
+Povprečni PSNR - HaLRTC: 4.95 za p: 1.100000e-01 in r: 16
+Čas - HaLRTC: 113.32 za p: 1.100000e-01 in r: 16
+Povprečni RSE - HaLRTC: 0.92 za p: 1.100000e-01 in r: 16
+Povprečni PSNR - HaLRTC: 5.59 za p: 2.100000e-01 in r: 16
+Čas - HaLRTC: 113.21 za p: 2.100000e-01 in r: 16
+Povprečni RSE - HaLRTC: 0.85 za p: 2.100000e-01 in r: 16
+Povprečni PSNR - HaLRTC: 6.10 za p: 3.100000e-01 in r: 16
+Čas - HaLRTC: 113.10 za p: 3.100000e-01 in r: 16
+Povprečni RSE - HaLRTC: 0.78 za p: 3.100000e-01 in r: 16
+Povprečni PSNR - HaLRTC: 7.14 za p: 4.100000e-01 in r: 16
+Čas - HaLRTC: 113.07 za p: 4.100000e-01 in r: 16
+Povprečni RSE - HaLRTC: 0.71 za p: 4.100000e-01 in r: 16
+Povprečni PSNR - HaLRTC: 7.91 za p: 5.100000e-01 in r: 16
+Čas - HaLRTC: 113.66 za p: 5.100000e-01 in r: 16
+Povprečni RSE - HaLRTC: 0.63 za p: 5.100000e-01 in r: 16
+Povprečni PSNR - HaLRTC: 9.34 za p: 6.100000e-01 in r: 16
+Čas - HaLRTC: 113.75 za p: 6.100000e-01 in r: 16
+Povprečni RSE - HaLRTC: 0.55 za p: 6.100000e-01 in r: 16
+Povprečni PSNR - HaLRTC: 10.82 za p: 7.100000e-01 in r: 16
+Čas - HaLRTC: 116.74 za p: 7.100000e-01 in r: 16
+Povprečni RSE - HaLRTC: 0.46 za p: 7.100000e-01 in r: 16
+Povprečni PSNR - HaLRTC: 13.22 za p: 8.100000e-01 in r: 16
+Čas - HaLRTC: 113.26 za p: 8.100000e-01 in r: 16
+Povprečni RSE - HaLRTC: 0.35 za p: 8.100000e-01 in r: 16
+Povprečni PSNR - HaLRTC: 17.79 za p: 9.100000e-01 in r: 16
+Čas - HaLRTC: 113.27 za p: 9.100000e-01 in r: 16
+Povprečni RSE - HaLRTC: 0.20 za p: 9.100000e-01 in r: 16
+Povprečni PSNR - HaLRTC: 3.85 za p: 1.000000e-02 in r: 19
+Čas - HaLRTC: 117.17 za p: 1.000000e-02 in r: 19
+Povprečni RSE - HaLRTC: 0.99 za p: 1.000000e-02 in r: 19
+Povprečni PSNR - HaLRTC: 4.52 za p: 1.100000e-01 in r: 19
+Čas - HaLRTC: 113.38 za p: 1.100000e-01 in r: 19
+Povprečni RSE - HaLRTC: 0.92 za p: 1.100000e-01 in r: 19
+Povprečni PSNR - HaLRTC: 5.23 za p: 2.100000e-01 in r: 19
+Čas - HaLRTC: 113.33 za p: 2.100000e-01 in r: 19
+Povprečni RSE - HaLRTC: 0.85 za p: 2.100000e-01 in r: 19
+Povprečni PSNR - HaLRTC: 5.90 za p: 3.100000e-01 in r: 19
+Čas - HaLRTC: 113.48 za p: 3.100000e-01 in r: 19
+Povprečni RSE - HaLRTC: 0.79 za p: 3.100000e-01 in r: 19
+Povprečni PSNR - HaLRTC: 6.63 za p: 4.100000e-01 in r: 19
+Čas - HaLRTC: 113.47 za p: 4.100000e-01 in r: 19
+Povprečni RSE - HaLRTC: 0.72 za p: 4.100000e-01 in r: 19
+Povprečni PSNR - HaLRTC: 7.80 za p: 5.100000e-01 in r: 19
+Čas - HaLRTC: 118.82 za p: 5.100000e-01 in r: 19
+Povprečni RSE - HaLRTC: 0.64 za p: 5.100000e-01 in r: 19
+Povprečni PSNR - HaLRTC: 8.79 za p: 6.100000e-01 in r: 19
+Čas - HaLRTC: 114.88 za p: 6.100000e-01 in r: 19
+Povprečni RSE - HaLRTC: 0.56 za p: 6.100000e-01 in r: 19
+Povprečni PSNR - HaLRTC: 10.40 za p: 7.100000e-01 in r: 19
+Čas - HaLRTC: 114.14 za p: 7.100000e-01 in r: 19
+Povprečni RSE - HaLRTC: 0.47 za p: 7.100000e-01 in r: 19
+Povprečni PSNR - HaLRTC: 12.66 za p: 8.100000e-01 in r: 19
+Čas - HaLRTC: 114.10 za p: 8.100000e-01 in r: 19
+Povprečni RSE - HaLRTC: 0.36 za p: 8.100000e-01 in r: 19
+Povprečni PSNR - HaLRTC: 16.98 za p: 9.100000e-01 in r: 19
+Čas - HaLRTC: 115.95 za p: 9.100000e-01 in r: 19
+Povprečni RSE - HaLRTC: 0.22 za p: 9.100000e-01 in r: 19
+Povprečni PSNR - HaLRTC: 3.68 za p: 1.000000e-02 in r: 22
+Čas - HaLRTC: 114.63 za p: 1.000000e-02 in r: 22
+Povprečni RSE - HaLRTC: 0.99 za p: 1.000000e-02 in r: 22
+Povprečni PSNR - HaLRTC: 4.33 za p: 1.100000e-01 in r: 22
+Čas - HaLRTC: 113.24 za p: 1.100000e-01 in r: 22
+Povprečni RSE - HaLRTC: 0.92 za p: 1.100000e-01 in r: 22
+Povprečni PSNR - HaLRTC: 4.89 za p: 2.100000e-01 in r: 22
+Čas - HaLRTC: 113.17 za p: 2.100000e-01 in r: 22
+Povprečni RSE - HaLRTC: 0.86 za p: 2.100000e-01 in r: 22
+Povprečni PSNR - HaLRTC: 5.59 za p: 3.100000e-01 in r: 22
+Čas - HaLRTC: 117.64 za p: 3.100000e-01 in r: 22
+Povprečni RSE - HaLRTC: 0.79 za p: 3.100000e-01 in r: 22
+Povprečni PSNR - HaLRTC: 6.37 za p: 4.100000e-01 in r: 22
+Čas - HaLRTC: 124.19 za p: 4.100000e-01 in r: 22
+Povprečni RSE - HaLRTC: 0.72 za p: 4.100000e-01 in r: 22
+Povprečni PSNR - HaLRTC: 7.41 za p: 5.100000e-01 in r: 22
+Čas - HaLRTC: 128.27 za p: 5.100000e-01 in r: 22
+Povprečni RSE - HaLRTC: 0.65 za p: 5.100000e-01 in r: 22
+Povprečni PSNR - HaLRTC: 8.33 za p: 6.100000e-01 in r: 22
+Čas - HaLRTC: 128.34 za p: 6.100000e-01 in r: 22
+Povprečni RSE - HaLRTC: 0.58 za p: 6.100000e-01 in r: 22
+Povprečni PSNR - HaLRTC: 10.04 za p: 7.100000e-01 in r: 22
+Čas - HaLRTC: 123.35 za p: 7.100000e-01 in r: 22
+Povprečni RSE - HaLRTC: 0.48 za p: 7.100000e-01 in r: 22
+Povprečni PSNR - HaLRTC: 12.27 za p: 8.100000e-01 in r: 22
+Čas - HaLRTC: 120.94 za p: 8.100000e-01 in r: 22
+Povprečni RSE - HaLRTC: 0.37 za p: 8.100000e-01 in r: 22
+Povprečni PSNR - HaLRTC: 16.44 za p: 9.100000e-01 in r: 22
+Čas - HaLRTC: 139.59 za p: 9.100000e-01 in r: 22
+Povprečni RSE - HaLRTC: 0.23 za p: 9.100000e-01 in r: 22
+Povprečni PSNR - HaLRTC: 3.53 za p: 1.000000e-02 in r: 25
+Čas - HaLRTC: 130.25 za p: 1.000000e-02 in r: 25
+Povprečni RSE - HaLRTC: 0.99 za p: 1.000000e-02 in r: 25
+Povprečni PSNR - HaLRTC: 4.05 za p: 1.100000e-01 in r: 25
+Čas - HaLRTC: 119.84 za p: 1.100000e-01 in r: 25
+Povprečni RSE - HaLRTC: 0.93 za p: 1.100000e-01 in r: 25
+Povprečni PSNR - HaLRTC: 4.66 za p: 2.100000e-01 in r: 25
+Čas - HaLRTC: 118.18 za p: 2.100000e-01 in r: 25
+Povprečni RSE - HaLRTC: 0.86 za p: 2.100000e-01 in r: 25
+Povprečni PSNR - HaLRTC: 5.28 za p: 3.100000e-01 in r: 25
+Čas - HaLRTC: 119.84 za p: 3.100000e-01 in r: 25
+Povprečni RSE - HaLRTC: 0.80 za p: 3.100000e-01 in r: 25
+Povprečni PSNR - HaLRTC: 6.14 za p: 4.100000e-01 in r: 25
+Čas - HaLRTC: 117.59 za p: 4.100000e-01 in r: 25
+Povprečni RSE - HaLRTC: 0.73 za p: 4.100000e-01 in r: 25
+Povprečni PSNR - HaLRTC: 7.00 za p: 5.100000e-01 in r: 25
+Čas - HaLRTC: 118.25 za p: 5.100000e-01 in r: 25
+Povprečni RSE - HaLRTC: 0.66 za p: 5.100000e-01 in r: 25
+Povprečni PSNR - HaLRTC: 8.27 za p: 6.100000e-01 in r: 25
+Čas - HaLRTC: 118.00 za p: 6.100000e-01 in r: 25
+Povprečni RSE - HaLRTC: 0.57 za p: 6.100000e-01 in r: 25
+Povprečni PSNR - HaLRTC: 9.68 za p: 7.100000e-01 in r: 25
+Čas - HaLRTC: 117.83 za p: 7.100000e-01 in r: 25
+Povprečni RSE - HaLRTC: 0.48 za p: 7.100000e-01 in r: 25
+Povprečni PSNR - HaLRTC: 11.97 za p: 8.100000e-01 in r: 25
+Čas - HaLRTC: 117.88 za p: 8.100000e-01 in r: 25
+Povprečni RSE - HaLRTC: 0.38 za p: 8.100000e-01 in r: 25
+Povprečni PSNR - HaLRTC: 15.82 za p: 9.100000e-01 in r: 25
+Čas - HaLRTC: 117.25 za p: 9.100000e-01 in r: 25
+Povprečni RSE - HaLRTC: 0.24 za p: 9.100000e-01 in r: 25
+Povprečni PSNR - HaLRTC: 3.33 za p: 1.000000e-02 in r: 28
+Čas - HaLRTC: 121.90 za p: 1.000000e-02 in r: 28
+Povprečni RSE - HaLRTC: 0.99 za p: 1.000000e-02 in r: 28
+Povprečni PSNR - HaLRTC: 4.00 za p: 1.100000e-01 in r: 28
+Čas - HaLRTC: 117.27 za p: 1.100000e-01 in r: 28
+Povprečni RSE - HaLRTC: 0.93 za p: 1.100000e-01 in r: 28
+Povprečni PSNR - HaLRTC: 4.58 za p: 2.100000e-01 in r: 28
+Čas - HaLRTC: 116.82 za p: 2.100000e-01 in r: 28
+Povprečni RSE - HaLRTC: 0.86 za p: 2.100000e-01 in r: 28
+Povprečni PSNR - HaLRTC: 5.30 za p: 3.100000e-01 in r: 28
+Čas - HaLRTC: 117.03 za p: 3.100000e-01 in r: 28
+Povprečni RSE - HaLRTC: 0.80 za p: 3.100000e-01 in r: 28
+Povprečni PSNR - HaLRTC: 5.93 za p: 4.100000e-01 in r: 28
+Čas - HaLRTC: 119.62 za p: 4.100000e-01 in r: 28
+Povprečni RSE - HaLRTC: 0.73 za p: 4.100000e-01 in r: 28
+Povprečni PSNR - HaLRTC: 6.74 za p: 5.100000e-01 in r: 28
+Čas - HaLRTC: 116.44 za p: 5.100000e-01 in r: 28
+Povprečni RSE - HaLRTC: 0.66 za p: 5.100000e-01 in r: 28
+Povprečni PSNR - HaLRTC: 7.95 za p: 6.100000e-01 in r: 28
+Čas - HaLRTC: 116.31 za p: 6.100000e-01 in r: 28
+Povprečni RSE - HaLRTC: 0.58 za p: 6.100000e-01 in r: 28
+Povprečni PSNR - HaLRTC: 9.44 za p: 7.100000e-01 in r: 28
+Čas - HaLRTC: 117.28 za p: 7.100000e-01 in r: 28
+Povprečni RSE - HaLRTC: 0.49 za p: 7.100000e-01 in r: 28
+Povprečni PSNR - HaLRTC: 11.49 za p: 8.100000e-01 in r: 28
+Čas - HaLRTC: 128.98 za p: 8.100000e-01 in r: 28
+Povprečni RSE - HaLRTC: 0.38 za p: 8.100000e-01 in r: 28
+Povprečni PSNR - HaLRTC: 15.46 za p: 9.100000e-01 in r: 28
+Čas - HaLRTC: 120.64 za p: 9.100000e-01 in r: 28
+Povprečni RSE - HaLRTC: 0.24 za p: 9.100000e-01 in r: 28

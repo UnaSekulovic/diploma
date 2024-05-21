@@ -1,0 +1,195 @@
+Povprečni PSNR - lrtc_tnn: 14.81 za p: 1.000000e-02 in r: 1
+Čas - lrtc_tnn: 67.91 za p: 1.000000e-02 in r: 1
+Povprečni RSE - lrtc_tnn: 0.54 za p: 1.000000e-02 in r: 1
+Povprečni PSNR - lrtc_tnn: 16.08 za p: 6.000000e-02 in r: 1
+Čas - lrtc_tnn: 65.89 za p: 6.000000e-02 in r: 1
+Povprečni RSE - lrtc_tnn: 0.47 za p: 6.000000e-02 in r: 1
+Povprečni PSNR - lrtc_tnn: 16.55 za p: 1.100000e-01 in r: 1
+Čas - lrtc_tnn: 62.58 za p: 1.100000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.45 za p: 1.100000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 17.28 za p: 1.600000e-01 in r: 1
+Čas - lrtc_tnn: 58.28 za p: 1.600000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.41 za p: 1.600000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 17.79 za p: 2.100000e-01 in r: 1
+Čas - lrtc_tnn: 52.16 za p: 2.100000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.39 za p: 2.100000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 18.37 za p: 2.600000e-01 in r: 1
+Čas - lrtc_tnn: 48.01 za p: 2.600000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.36 za p: 2.600000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 18.92 za p: 3.100000e-01 in r: 1
+Čas - lrtc_tnn: 44.78 za p: 3.100000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.34 za p: 3.100000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 19.36 za p: 3.600000e-01 in r: 1
+Čas - lrtc_tnn: 44.85 za p: 3.600000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.32 za p: 3.600000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 19.98 za p: 4.100000e-01 in r: 1
+Čas - lrtc_tnn: 39.74 za p: 4.100000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.30 za p: 4.100000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 20.79 za p: 4.600000e-01 in r: 1
+Čas - lrtc_tnn: 38.89 za p: 4.600000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.28 za p: 4.600000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 21.44 za p: 5.100000e-01 in r: 1
+Čas - lrtc_tnn: 37.80 za p: 5.100000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.26 za p: 5.100000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 22.15 za p: 5.600000e-01 in r: 1
+Čas - lrtc_tnn: 37.14 za p: 5.600000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.24 za p: 5.600000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 22.89 za p: 6.100000e-01 in r: 1
+Čas - lrtc_tnn: 37.00 za p: 6.100000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.21 za p: 6.100000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 23.79 za p: 6.600000e-01 in r: 1
+Čas - lrtc_tnn: 36.69 za p: 6.600000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.19 za p: 6.600000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 24.77 za p: 7.100000e-01 in r: 1
+Čas - lrtc_tnn: 36.54 za p: 7.100000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.18 za p: 7.100000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 25.85 za p: 7.600000e-01 in r: 1
+Čas - lrtc_tnn: 36.83 za p: 7.600000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.15 za p: 7.600000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 27.29 za p: 8.100000e-01 in r: 1
+Čas - lrtc_tnn: 37.59 za p: 8.100000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.13 za p: 8.100000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 29.02 za p: 8.600000e-01 in r: 1
+Čas - lrtc_tnn: 38.71 za p: 8.600000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.11 za p: 8.600000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 31.20 za p: 9.100000e-01 in r: 1
+Čas - lrtc_tnn: 39.37 za p: 9.100000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.08 za p: 9.100000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 35.37 za p: 9.600000e-01 in r: 1
+Čas - lrtc_tnn: 43.32 za p: 9.600000e-01 in r: 1
+Povprečni RSE - lrtc_tnn: 0.05 za p: 9.600000e-01 in r: 1
+Povprečni PSNR - lrtc_tnn: 15.14 za p: 1.000000e-02 in r: 2
+Čas - lrtc_tnn: 239.51 za p: 1.000000e-02 in r: 2
+Povprečni RSE - lrtc_tnn: 0.52 za p: 1.000000e-02 in r: 2
+Povprečni PSNR - lrtc_tnn: 16.48 za p: 6.000000e-02 in r: 2
+Čas - lrtc_tnn: 236.72 za p: 6.000000e-02 in r: 2
+Povprečni RSE - lrtc_tnn: 0.45 za p: 6.000000e-02 in r: 2
+Povprečni PSNR - lrtc_tnn: 17.25 za p: 1.100000e-01 in r: 2
+Čas - lrtc_tnn: 211.71 za p: 1.100000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.41 za p: 1.100000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 18.05 za p: 1.600000e-01 in r: 2
+Čas - lrtc_tnn: 202.14 za p: 1.600000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.38 za p: 1.600000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 18.69 za p: 2.100000e-01 in r: 2
+Čas - lrtc_tnn: 190.61 za p: 2.100000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.35 za p: 2.100000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 19.39 za p: 2.600000e-01 in r: 2
+Čas - lrtc_tnn: 178.50 za p: 2.600000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.32 za p: 2.600000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 20.04 za p: 3.100000e-01 in r: 2
+Čas - lrtc_tnn: 158.01 za p: 3.100000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.30 za p: 3.100000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 20.70 za p: 3.600000e-01 in r: 2
+Čas - lrtc_tnn: 149.57 za p: 3.600000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.28 za p: 3.600000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 21.40 za p: 4.100000e-01 in r: 2
+Čas - lrtc_tnn: 144.10 za p: 4.100000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.26 za p: 4.100000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 22.06 za p: 4.600000e-01 in r: 2
+Čas - lrtc_tnn: 142.94 za p: 4.600000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.24 za p: 4.600000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 22.90 za p: 5.100000e-01 in r: 2
+Čas - lrtc_tnn: 137.74 za p: 5.100000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.22 za p: 5.100000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 23.59 za p: 5.600000e-01 in r: 2
+Čas - lrtc_tnn: 135.94 za p: 5.600000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.20 za p: 5.600000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 24.46 za p: 6.100000e-01 in r: 2
+Čas - lrtc_tnn: 134.46 za p: 6.100000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.18 za p: 6.100000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 25.40 za p: 6.600000e-01 in r: 2
+Čas - lrtc_tnn: 134.27 za p: 6.600000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.16 za p: 6.600000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 26.43 za p: 7.100000e-01 in r: 2
+Čas - lrtc_tnn: 132.07 za p: 7.100000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.14 za p: 7.100000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 27.58 za p: 7.600000e-01 in r: 2
+Čas - lrtc_tnn: 131.28 za p: 7.600000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.13 za p: 7.600000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 28.98 za p: 8.100000e-01 in r: 2
+Čas - lrtc_tnn: 134.46 za p: 8.100000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.11 za p: 8.100000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 30.64 za p: 8.600000e-01 in r: 2
+Čas - lrtc_tnn: 134.23 za p: 8.600000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.09 za p: 8.600000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 33.09 za p: 9.100000e-01 in r: 2
+Čas - lrtc_tnn: 139.07 za p: 9.100000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.07 za p: 9.100000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 37.30 za p: 9.600000e-01 in r: 2
+Čas - lrtc_tnn: 155.33 za p: 9.600000e-01 in r: 2
+Povprečni RSE - lrtc_tnn: 0.04 za p: 9.600000e-01 in r: 2
+Povprečni PSNR - lrtc_tnn: 15.31 za p: 1.000000e-02 in r: 3
+Čas - lrtc_tnn: 644.89 za p: 1.000000e-02 in r: 3
+Povprečni RSE - lrtc_tnn: 0.51 za p: 1.000000e-02 in r: 3
+Povprečni PSNR - lrtc_tnn: 16.79 za p: 6.000000e-02 in r: 3
+Čas - lrtc_tnn: 605.37 za p: 6.000000e-02 in r: 3
+Povprečni RSE - lrtc_tnn: 0.44 za p: 6.000000e-02 in r: 3
+Povprečni PSNR - lrtc_tnn: 17.70 za p: 1.100000e-01 in r: 3
+Čas - lrtc_tnn: 561.03 za p: 1.100000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.39 za p: 1.100000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 18.60 za p: 1.600000e-01 in r: 3
+Čas - lrtc_tnn: 522.42 za p: 1.600000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.35 za p: 1.600000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 19.35 za p: 2.100000e-01 in r: 3
+Čas - lrtc_tnn: 463.22 za p: 2.100000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.33 za p: 2.100000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 20.12 za p: 2.600000e-01 in r: 3
+Čas - lrtc_tnn: 426.33 za p: 2.600000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.30 za p: 2.600000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 20.83 za p: 3.100000e-01 in r: 3
+Čas - lrtc_tnn: 396.00 za p: 3.100000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.28 za p: 3.100000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 21.55 za p: 3.600000e-01 in r: 3
+Čas - lrtc_tnn: 365.73 za p: 3.600000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.25 za p: 3.600000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 22.26 za p: 4.100000e-01 in r: 3
+Čas - lrtc_tnn: 358.40 za p: 4.100000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.23 za p: 4.100000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 22.89 za p: 4.600000e-01 in r: 3
+Čas - lrtc_tnn: 398.51 za p: 4.600000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.22 za p: 4.600000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 23.63 za p: 5.100000e-01 in r: 3
+Čas - lrtc_tnn: 370.33 za p: 5.100000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.20 za p: 5.100000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 24.56 za p: 5.600000e-01 in r: 3
+Čas - lrtc_tnn: 333.77 za p: 5.600000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.18 za p: 5.600000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 25.27 za p: 6.100000e-01 in r: 3
+Čas - lrtc_tnn: 330.30 za p: 6.100000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.17 za p: 6.100000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 26.16 za p: 6.600000e-01 in r: 3
+Čas - lrtc_tnn: 331.32 za p: 6.600000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.15 za p: 6.600000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 27.21 za p: 7.100000e-01 in r: 3
+Čas - lrtc_tnn: 330.74 za p: 7.100000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.13 za p: 7.100000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 28.44 za p: 7.600000e-01 in r: 3
+Čas - lrtc_tnn: 329.95 za p: 7.600000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.12 za p: 7.600000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 29.77 za p: 8.100000e-01 in r: 3
+Čas - lrtc_tnn: 337.68 za p: 8.100000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.10 za p: 8.100000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 31.44 za p: 8.600000e-01 in r: 3
+Čas - lrtc_tnn: 327.79 za p: 8.600000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.08 za p: 8.600000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 33.84 za p: 9.100000e-01 in r: 3
+Čas - lrtc_tnn: 340.74 za p: 9.100000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.06 za p: 9.100000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 37.96 za p: 9.600000e-01 in r: 3
+Čas - lrtc_tnn: 359.11 za p: 9.600000e-01 in r: 3
+Povprečni RSE - lrtc_tnn: 0.04 za p: 9.600000e-01 in r: 3
+Povprečni PSNR - lrtc_tnn: 15.46 za p: 1.000000e-02 in r: 4
+Čas - lrtc_tnn: 1145.35 za p: 1.000000e-02 in r: 4
+Povprečni RSE - lrtc_tnn: 0.51 za p: 1.000000e-02 in r: 4
+Povprečni PSNR - lrtc_tnn: 17.05 za p: 6.000000e-02 in r: 4
+Čas - lrtc_tnn: 1107.83 za p: 6.000000e-02 in r: 4
+Povprečni RSE - lrtc_tnn: 0.42 za p: 6.000000e-02 in r: 4
+Povprečni PSNR - lrtc_tnn: 18.16 za p: 1.100000e-01 in r: 4
+Čas - lrtc_tnn: 1009.12 za p: 1.100000e-01 in r: 4
+Povprečni RSE - lrtc_tnn: 0.37 za p: 1.100000e-01 in r: 4
+Povprečni PSNR - lrtc_tnn: 19.07 za p: 1.600000e-01 in r: 4
+Čas - lrtc_tnn: 916.78 za p: 1.600000e-01 in r: 4
+Povprečni RSE - lrtc_tnn: 0.34 za p: 1.600000e-01 in r: 4
+Povprečni PSNR - lrtc_tnn: 19.93 za p: 2.100000e-01 in r: 4
+Čas - lrtc_tnn: 885.58 za p: 2.100000e-01 in r: 4
+Povprečni RSE - lrtc_tnn: 0.31 za p: 2.100000e-01 in r: 4

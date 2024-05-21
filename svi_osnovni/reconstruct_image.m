@@ -1,0 +1,73 @@
+clear
+folder_path = 'C:\Users\Korisnik\Documents\MATLAB\diploma\slike';
+image_files = dir(fullfile(folder_path, '*.png'));
+
+imena_algoritama = {'HaLRTC'};
+
+% Otvaranje fajla za upis rezultata
+%fid = fopen('rezultati.txt', 'w');
+
+psnr_all = cell(length(imena_algoritama), 1);
+
+time = cell(length(imena_algoritama), 1);
+
+for j = 1:length(imena_algoritama)
+    psnr_all{j} = zeros(length(image_files), 1);
+    algoritam = str2func(imena_algoritama{j});
+    time{j} = zeros(length(image_files), 1);
+
+    %čez vse slike
+    for i = 1:length(image_files)
+        image_path = fullfile(folder_path, image_files(i).name);
+        X = double(imread(image_path));
+        X = X/255;    
+        maxP = max(abs(X(:)));
+        [n1,n2,n3] = size(X);
+    
+        p = 0.4; % sampling rate
+
+        omega = find(rand(n1*n2*n3,1)<p);
+        M = zeros(n1,n2,n3);
+        M(omega) = X(omega);
+
+        omega2 = zeros(n1,n2,n3);
+        Iones = ones(n1,n2,n3);
+        omega2(omega) = Iones(omega);
+        omega3 = find(omega2==1);
+        transform.L = @dct; transform.l = 1; transform.inverseL = @idct;
+        opts.DEBUG = 1;
+
+        tic;
+        if strcmp(imena_algoritama{j}, 'lrtc_tnn')
+            X_rez = algoritam(M,omega3,opts);
+        else
+            X_rez = algoritam(M,omega2,opts);
+        end
+
+        kraj = toc;
+        time{j}(i) = kraj;
+        
+        psnr = PSNR(X,X_rez,maxP);
+        psnr_all{j}(i) = psnr;
+    end
+
+    %povprečni PSNR
+    psnr_avg = mean(psnr_all{j});
+    fprintf('Povprečni PSNR - %s: %.2f\n', imena_algoritama{j}, psnr_avg);
+    %fprintf(fid, 'Povprečni PSNR za %s: %.2f\n', imena_algoritama{j}, psnr_avg);
+
+    %standardni odklon
+    psnr_std = std(psnr_all{j});
+    fprintf('Standardni otklon PSNR - %s: %.2f\n', imena_algoritama{j}, psnr_std);
+    %fprintf(fid, 'Standardni otklon PSNR - %s: %.2f\n', imena_algoritama{j}, psnr_std);
+
+    %čas
+    cas = mean(time{j});
+    fprintf('Čas - %s: %.2f\n', imena_algoritama{j}, cas);
+    %fprintf(fid, 'Čas - %s: %.2f\n', imena_algoritama{j}, cas);
+    
+end
+
+%fclose(fid);
+
+

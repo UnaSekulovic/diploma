@@ -1,0 +1,381 @@
+Average PSNR - TNN: 17.33 za p: 1.000000e-02 in r: 1
+Time - TNN: 61.92 za p: 1.000000e-02 in r: 1
+Average RSE - TNN: 0.42 za p: 1.000000e-02 in r: 1
+Average PSNR - TNN: 127.60 za p: 6.000000e-02 in r: 1
+Time - TNN: 66.19 za p: 6.000000e-02 in r: 1
+Average RSE - TNN: 0.00 za p: 6.000000e-02 in r: 1
+Average PSNR - TNN: 154.42 za p: 1.100000e-01 in r: 1
+Time - TNN: 60.66 za p: 1.100000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 1.100000e-01 in r: 1
+Average PSNR - TNN: 190.77 za p: 1.600000e-01 in r: 1
+Time - TNN: 58.75 za p: 1.600000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 1.600000e-01 in r: 1
+Average PSNR - TNN: 191.07 za p: 2.100000e-01 in r: 1
+Time - TNN: 51.44 za p: 2.100000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 2.100000e-01 in r: 1
+Average PSNR - TNN: 190.17 za p: 2.600000e-01 in r: 1
+Time - TNN: 50.80 za p: 2.600000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 2.600000e-01 in r: 1
+Average PSNR - TNN: 190.28 za p: 3.100000e-01 in r: 1
+Time - TNN: 44.14 za p: 3.100000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 3.100000e-01 in r: 1
+Average PSNR - TNN: 190.42 za p: 3.600000e-01 in r: 1
+Time - TNN: 38.53 za p: 3.600000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 3.600000e-01 in r: 1
+Average PSNR - TNN: 189.18 za p: 4.100000e-01 in r: 1
+Time - TNN: 34.07 za p: 4.100000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 4.100000e-01 in r: 1
+Average PSNR - TNN: 188.78 za p: 4.600000e-01 in r: 1
+Time - TNN: 30.63 za p: 4.600000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 4.600000e-01 in r: 1
+Average PSNR - TNN: 190.39 za p: 5.100000e-01 in r: 1
+Time - TNN: 28.39 za p: 5.100000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 5.100000e-01 in r: 1
+Average PSNR - TNN: 192.69 za p: 5.600000e-01 in r: 1
+Time - TNN: 26.13 za p: 5.600000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 5.600000e-01 in r: 1
+Average PSNR - TNN: 199.12 za p: 6.100000e-01 in r: 1
+Time - TNN: 24.87 za p: 6.100000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 6.100000e-01 in r: 1
+Average PSNR - TNN: 200.51 za p: 6.600000e-01 in r: 1
+Time - TNN: 23.37 za p: 6.600000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 6.600000e-01 in r: 1
+Average PSNR - TNN: 197.67 za p: 7.100000e-01 in r: 1
+Time - TNN: 18.80 za p: 7.100000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 7.100000e-01 in r: 1
+Average PSNR - TNN: 200.80 za p: 7.600000e-01 in r: 1
+Time - TNN: 18.62 za p: 7.600000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 7.600000e-01 in r: 1
+Average PSNR - TNN: 209.83 za p: 8.100000e-01 in r: 1
+Time - TNN: 17.90 za p: 8.100000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 8.100000e-01 in r: 1
+Average PSNR - TNN: 199.55 za p: 8.600000e-01 in r: 1
+Time - TNN: 17.32 za p: 8.600000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 8.600000e-01 in r: 1
+Average PSNR - TNN: 209.63 za p: 9.100000e-01 in r: 1
+Time - TNN: 17.40 za p: 9.100000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 9.100000e-01 in r: 1
+Average PSNR - TNN: 202.05 za p: 9.600000e-01 in r: 1
+Time - TNN: 17.24 za p: 9.600000e-01 in r: 1
+Average RSE - TNN: 0.00 za p: 9.600000e-01 in r: 1
+Average PSNR - TNN: 16.92 za p: 1.000000e-02 in r: 2
+Time - TNN: 59.88 za p: 1.000000e-02 in r: 2
+Average RSE - TNN: 0.38 za p: 1.000000e-02 in r: 2
+Average PSNR - TNN: 109.86 za p: 6.000000e-02 in r: 2
+Time - TNN: 59.96 za p: 6.000000e-02 in r: 2
+Average RSE - TNN: 0.00 za p: 6.000000e-02 in r: 2
+Average PSNR - TNN: 150.58 za p: 1.100000e-01 in r: 2
+Time - TNN: 59.47 za p: 1.100000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 1.100000e-01 in r: 2
+Average PSNR - TNN: 185.07 za p: 1.600000e-01 in r: 2
+Time - TNN: 60.24 za p: 1.600000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 1.600000e-01 in r: 2
+Average PSNR - TNN: 193.62 za p: 2.100000e-01 in r: 2
+Time - TNN: 50.64 za p: 2.100000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 2.100000e-01 in r: 2
+Average PSNR - TNN: 193.93 za p: 2.600000e-01 in r: 2
+Time - TNN: 42.82 za p: 2.600000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 2.600000e-01 in r: 2
+Average PSNR - TNN: 193.86 za p: 3.100000e-01 in r: 2
+Time - TNN: 37.36 za p: 3.100000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 3.100000e-01 in r: 2
+Average PSNR - TNN: 193.78 za p: 3.600000e-01 in r: 2
+Time - TNN: 32.42 za p: 3.600000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 3.600000e-01 in r: 2
+Average PSNR - TNN: 192.98 za p: 4.100000e-01 in r: 2
+Time - TNN: 28.55 za p: 4.100000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 4.100000e-01 in r: 2
+Average PSNR - TNN: 193.65 za p: 4.600000e-01 in r: 2
+Time - TNN: 25.99 za p: 4.600000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 4.600000e-01 in r: 2
+Average PSNR - TNN: 197.25 za p: 5.100000e-01 in r: 2
+Time - TNN: 24.05 za p: 5.100000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 5.100000e-01 in r: 2
+Average PSNR - TNN: 199.27 za p: 5.600000e-01 in r: 2
+Time - TNN: 22.37 za p: 5.600000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 5.600000e-01 in r: 2
+Average PSNR - TNN: 203.60 za p: 6.100000e-01 in r: 2
+Time - TNN: 21.40 za p: 6.100000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 6.100000e-01 in r: 2
+Average PSNR - TNN: 201.43 za p: 6.600000e-01 in r: 2
+Time - TNN: 20.35 za p: 6.600000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 6.600000e-01 in r: 2
+Average PSNR - TNN: 206.27 za p: 7.100000e-01 in r: 2
+Time - TNN: 19.66 za p: 7.100000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 7.100000e-01 in r: 2
+Average PSNR - TNN: 200.45 za p: 7.600000e-01 in r: 2
+Time - TNN: 19.12 za p: 7.600000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 7.600000e-01 in r: 2
+Average PSNR - TNN: 209.06 za p: 8.100000e-01 in r: 2
+Time - TNN: 18.39 za p: 8.100000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 8.100000e-01 in r: 2
+Average PSNR - TNN: 203.54 za p: 8.600000e-01 in r: 2
+Time - TNN: 17.84 za p: 8.600000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 8.600000e-01 in r: 2
+Average PSNR - TNN: 208.40 za p: 9.100000e-01 in r: 2
+Time - TNN: 17.85 za p: 9.100000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 9.100000e-01 in r: 2
+Average PSNR - TNN: 206.92 za p: 9.600000e-01 in r: 2
+Time - TNN: 17.53 za p: 9.600000e-01 in r: 2
+Average RSE - TNN: 0.00 za p: 9.600000e-01 in r: 2
+Average PSNR - TNN: 16.36 za p: 1.000000e-02 in r: 3
+Time - TNN: 59.36 za p: 1.000000e-02 in r: 3
+Average RSE - TNN: 0.36 za p: 1.000000e-02 in r: 3
+Average PSNR - TNN: 88.79 za p: 6.000000e-02 in r: 3
+Time - TNN: 62.06 za p: 6.000000e-02 in r: 3
+Average RSE - TNN: 0.00 za p: 6.000000e-02 in r: 3
+Average PSNR - TNN: 146.84 za p: 1.100000e-01 in r: 3
+Time - TNN: 59.23 za p: 1.100000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 1.100000e-01 in r: 3
+Average PSNR - TNN: 181.05 za p: 1.600000e-01 in r: 3
+Time - TNN: 59.35 za p: 1.600000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 1.600000e-01 in r: 3
+Average PSNR - TNN: 193.64 za p: 2.100000e-01 in r: 3
+Time - TNN: 52.04 za p: 2.100000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 2.100000e-01 in r: 3
+Average PSNR - TNN: 196.40 za p: 2.600000e-01 in r: 3
+Time - TNN: 44.66 za p: 2.600000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 2.600000e-01 in r: 3
+Average PSNR - TNN: 197.56 za p: 3.100000e-01 in r: 3
+Time - TNN: 39.52 za p: 3.100000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 3.100000e-01 in r: 3
+Average PSNR - TNN: 196.19 za p: 3.600000e-01 in r: 3
+Time - TNN: 33.37 za p: 3.600000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 3.600000e-01 in r: 3
+Average PSNR - TNN: 195.02 za p: 4.100000e-01 in r: 3
+Time - TNN: 29.33 za p: 4.100000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 4.100000e-01 in r: 3
+Average PSNR - TNN: 200.04 za p: 4.600000e-01 in r: 3
+Time - TNN: 26.98 za p: 4.600000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 4.600000e-01 in r: 3
+Average PSNR - TNN: 201.69 za p: 5.100000e-01 in r: 3
+Time - TNN: 24.91 za p: 5.100000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 5.100000e-01 in r: 3
+Average PSNR - TNN: 203.18 za p: 5.600000e-01 in r: 3
+Time - TNN: 23.20 za p: 5.600000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 5.600000e-01 in r: 3
+Average PSNR - TNN: 202.91 za p: 6.100000e-01 in r: 3
+Time - TNN: 21.96 za p: 6.100000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 6.100000e-01 in r: 3
+Average PSNR - TNN: 204.16 za p: 6.600000e-01 in r: 3
+Time - TNN: 20.80 za p: 6.600000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 6.600000e-01 in r: 3
+Average PSNR - TNN: 203.69 za p: 7.100000e-01 in r: 3
+Time - TNN: 19.98 za p: 7.100000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 7.100000e-01 in r: 3
+Average PSNR - TNN: 208.16 za p: 7.600000e-01 in r: 3
+Time - TNN: 19.27 za p: 7.600000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 7.600000e-01 in r: 3
+Average PSNR - TNN: 206.40 za p: 8.100000e-01 in r: 3
+Time - TNN: 18.74 za p: 8.100000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 8.100000e-01 in r: 3
+Average PSNR - TNN: 214.39 za p: 8.600000e-01 in r: 3
+Time - TNN: 18.51 za p: 8.600000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 8.600000e-01 in r: 3
+Average PSNR - TNN: 208.65 za p: 9.100000e-01 in r: 3
+Time - TNN: 17.79 za p: 9.100000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 9.100000e-01 in r: 3
+Average PSNR - TNN: 207.50 za p: 9.600000e-01 in r: 3
+Time - TNN: 17.76 za p: 9.600000e-01 in r: 3
+Average RSE - TNN: 0.00 za p: 9.600000e-01 in r: 3
+Average PSNR - TNN: 16.06 za p: 1.000000e-02 in r: 4
+Time - TNN: 59.39 za p: 1.000000e-02 in r: 4
+Average RSE - TNN: 0.35 za p: 1.000000e-02 in r: 4
+Average PSNR - TNN: 53.88 za p: 6.000000e-02 in r: 4
+Time - TNN: 59.73 za p: 6.000000e-02 in r: 4
+Average RSE - TNN: 0.00 za p: 6.000000e-02 in r: 4
+Average PSNR - TNN: 143.07 za p: 1.100000e-01 in r: 4
+Time - TNN: 59.41 za p: 1.100000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 1.100000e-01 in r: 4
+Average PSNR - TNN: 176.41 za p: 1.600000e-01 in r: 4
+Time - TNN: 59.80 za p: 1.600000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 1.600000e-01 in r: 4
+Average PSNR - TNN: 197.13 za p: 2.100000e-01 in r: 4
+Time - TNN: 54.23 za p: 2.100000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 2.100000e-01 in r: 4
+Average PSNR - TNN: 198.85 za p: 2.600000e-01 in r: 4
+Time - TNN: 46.92 za p: 2.600000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 2.600000e-01 in r: 4
+Average PSNR - TNN: 200.81 za p: 3.100000e-01 in r: 4
+Time - TNN: 40.52 za p: 3.100000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 3.100000e-01 in r: 4
+Average PSNR - TNN: 198.78 za p: 3.600000e-01 in r: 4
+Time - TNN: 34.55 za p: 3.600000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 3.600000e-01 in r: 4
+Average PSNR - TNN: 201.13 za p: 4.100000e-01 in r: 4
+Time - TNN: 30.42 za p: 4.100000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 4.100000e-01 in r: 4
+Average PSNR - TNN: 201.59 za p: 4.600000e-01 in r: 4
+Time - TNN: 27.98 za p: 4.600000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 4.600000e-01 in r: 4
+Average PSNR - TNN: 203.00 za p: 5.100000e-01 in r: 4
+Time - TNN: 25.88 za p: 5.100000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 5.100000e-01 in r: 4
+Average PSNR - TNN: 201.26 za p: 5.600000e-01 in r: 4
+Time - TNN: 23.70 za p: 5.600000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 5.600000e-01 in r: 4
+Average PSNR - TNN: 203.91 za p: 6.100000e-01 in r: 4
+Time - TNN: 22.35 za p: 6.100000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 6.100000e-01 in r: 4
+Average PSNR - TNN: 207.30 za p: 6.600000e-01 in r: 4
+Time - TNN: 21.44 za p: 6.600000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 6.600000e-01 in r: 4
+Average PSNR - TNN: 202.42 za p: 7.100000e-01 in r: 4
+Time - TNN: 20.19 za p: 7.100000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 7.100000e-01 in r: 4
+Average PSNR - TNN: 211.89 za p: 7.600000e-01 in r: 4
+Time - TNN: 19.85 za p: 7.600000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 7.600000e-01 in r: 4
+Average PSNR - TNN: 204.34 za p: 8.100000e-01 in r: 4
+Time - TNN: 18.90 za p: 8.100000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 8.100000e-01 in r: 4
+Average PSNR - TNN: 215.46 za p: 8.600000e-01 in r: 4
+Time - TNN: 18.50 za p: 8.600000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 8.600000e-01 in r: 4
+Average PSNR - TNN: 208.84 za p: 9.100000e-01 in r: 4
+Time - TNN: 18.09 za p: 9.100000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 9.100000e-01 in r: 4
+Average PSNR - TNN: 213.89 za p: 9.600000e-01 in r: 4
+Time - TNN: 18.20 za p: 9.600000e-01 in r: 4
+Average RSE - TNN: 0.00 za p: 9.600000e-01 in r: 4
+Average PSNR - TNN: 15.50 za p: 1.000000e-02 in r: 5
+Time - TNN: 59.33 za p: 1.000000e-02 in r: 5
+Average RSE - TNN: 0.35 za p: 1.000000e-02 in r: 5
+Average PSNR - TNN: 43.08 za p: 6.000000e-02 in r: 5
+Time - TNN: 59.63 za p: 6.000000e-02 in r: 5
+Average RSE - TNN: 0.01 za p: 6.000000e-02 in r: 5
+Average PSNR - TNN: 139.76 za p: 1.100000e-01 in r: 5
+Time - TNN: 75.45 za p: 1.100000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 1.100000e-01 in r: 5
+Average PSNR - TNN: 171.76 za p: 1.600000e-01 in r: 5
+Time - TNN: 60.57 za p: 1.600000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 1.600000e-01 in r: 5
+Average PSNR - TNN: 199.23 za p: 2.100000e-01 in r: 5
+Time - TNN: 57.33 za p: 2.100000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 2.100000e-01 in r: 5
+Average PSNR - TNN: 200.60 za p: 2.600000e-01 in r: 5
+Time - TNN: 48.68 za p: 2.600000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 2.600000e-01 in r: 5
+Average PSNR - TNN: 201.69 za p: 3.100000e-01 in r: 5
+Time - TNN: 41.74 za p: 3.100000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 3.100000e-01 in r: 5
+Average PSNR - TNN: 201.64 za p: 3.600000e-01 in r: 5
+Time - TNN: 36.14 za p: 3.600000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 3.600000e-01 in r: 5
+Average PSNR - TNN: 201.80 za p: 4.100000e-01 in r: 5
+Time - TNN: 31.55 za p: 4.100000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 4.100000e-01 in r: 5
+Average PSNR - TNN: 202.69 za p: 4.600000e-01 in r: 5
+Time - TNN: 28.68 za p: 4.600000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 4.600000e-01 in r: 5
+Average PSNR - TNN: 204.31 za p: 5.100000e-01 in r: 5
+Time - TNN: 26.55 za p: 5.100000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 5.100000e-01 in r: 5
+Average PSNR - TNN: 203.67 za p: 5.600000e-01 in r: 5
+Time - TNN: 24.39 za p: 5.600000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 5.600000e-01 in r: 5
+Average PSNR - TNN: 208.09 za p: 6.100000e-01 in r: 5
+Time - TNN: 22.88 za p: 6.100000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 6.100000e-01 in r: 5
+Average PSNR - TNN: 204.72 za p: 6.600000e-01 in r: 5
+Time - TNN: 21.55 za p: 6.600000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 6.600000e-01 in r: 5
+Average PSNR - TNN: 207.85 za p: 7.100000e-01 in r: 5
+Time - TNN: 20.60 za p: 7.100000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 7.100000e-01 in r: 5
+Average PSNR - TNN: 209.17 za p: 7.600000e-01 in r: 5
+Time - TNN: 19.94 za p: 7.600000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 7.600000e-01 in r: 5
+Average PSNR - TNN: 203.24 za p: 8.100000e-01 in r: 5
+Time - TNN: 18.80 za p: 8.100000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 8.100000e-01 in r: 5
+Average PSNR - TNN: 213.38 za p: 8.600000e-01 in r: 5
+Time - TNN: 18.55 za p: 8.600000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 8.600000e-01 in r: 5
+Average PSNR - TNN: 211.42 za p: 9.100000e-01 in r: 5
+Time - TNN: 18.10 za p: 9.100000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 9.100000e-01 in r: 5
+Average PSNR - TNN: 211.43 za p: 9.600000e-01 in r: 5
+Time - TNN: 17.90 za p: 9.600000e-01 in r: 5
+Average RSE - TNN: 0.00 za p: 9.600000e-01 in r: 5
+Average PSNR - TNN: 15.00 za p: 1.000000e-02 in r: 6
+Time - TNN: 59.36 za p: 1.000000e-02 in r: 6
+Average RSE - TNN: 0.34 za p: 1.000000e-02 in r: 6
+Average PSNR - TNN: 38.04 za p: 6.000000e-02 in r: 6
+Time - TNN: 59.61 za p: 6.000000e-02 in r: 6
+Average RSE - TNN: 0.03 za p: 6.000000e-02 in r: 6
+Average PSNR - TNN: 130.46 za p: 1.100000e-01 in r: 6
+Time - TNN: 59.44 za p: 1.100000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 1.100000e-01 in r: 6
+Average PSNR - TNN: 165.89 za p: 1.600000e-01 in r: 6
+Time - TNN: 59.22 za p: 1.600000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 1.600000e-01 in r: 6
+Average PSNR - TNN: 198.23 za p: 2.100000e-01 in r: 6
+Time - TNN: 59.60 za p: 2.100000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 2.100000e-01 in r: 6
+Average PSNR - TNN: 200.50 za p: 2.600000e-01 in r: 6
+Time - TNN: 50.36 za p: 2.600000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 2.600000e-01 in r: 6
+Average PSNR - TNN: 200.41 za p: 3.100000e-01 in r: 6
+Time - TNN: 43.05 za p: 3.100000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 3.100000e-01 in r: 6
+Average PSNR - TNN: 204.30 za p: 3.600000e-01 in r: 6
+Time - TNN: 37.70 za p: 3.600000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 3.600000e-01 in r: 6
+Average PSNR - TNN: 203.80 za p: 4.100000e-01 in r: 6
+Time - TNN: 33.06 za p: 4.100000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 4.100000e-01 in r: 6
+Average PSNR - TNN: 204.27 za p: 4.600000e-01 in r: 6
+Time - TNN: 29.50 za p: 4.600000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 4.600000e-01 in r: 6
+Average PSNR - TNN: 204.54 za p: 5.100000e-01 in r: 6
+Time - TNN: 26.86 za p: 5.100000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 5.100000e-01 in r: 6
+Average PSNR - TNN: 206.05 za p: 5.600000e-01 in r: 6
+Time - TNN: 25.10 za p: 5.600000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 5.600000e-01 in r: 6
+Average PSNR - TNN: 206.12 za p: 6.100000e-01 in r: 6
+Time - TNN: 23.37 za p: 6.100000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 6.100000e-01 in r: 6
+Average PSNR - TNN: 203.95 za p: 6.600000e-01 in r: 6
+Time - TNN: 24.55 za p: 6.600000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 6.600000e-01 in r: 6
+Average PSNR - TNN: 211.01 za p: 7.100000e-01 in r: 6
+Time - TNN: 22.79 za p: 7.100000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 7.100000e-01 in r: 6
+Average PSNR - TNN: 207.07 za p: 7.600000e-01 in r: 6
+Time - TNN: 20.04 za p: 7.600000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 7.600000e-01 in r: 6
+Average PSNR - TNN: 209.96 za p: 8.100000e-01 in r: 6
+Time - TNN: 19.34 za p: 8.100000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 8.100000e-01 in r: 6
+Average PSNR - TNN: 212.72 za p: 8.600000e-01 in r: 6
+Time - TNN: 18.83 za p: 8.600000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 8.600000e-01 in r: 6
+Average PSNR - TNN: 214.14 za p: 9.100000e-01 in r: 6
+Time - TNN: 18.27 za p: 9.100000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 9.100000e-01 in r: 6
+Average PSNR - TNN: 211.29 za p: 9.600000e-01 in r: 6
+Time - TNN: 17.93 za p: 9.600000e-01 in r: 6
+Average RSE - TNN: 0.00 za p: 9.600000e-01 in r: 6
+Average PSNR - TNN: 14.94 za p: 1.000000e-02 in r: 7
+Time - TNN: 59.38 za p: 1.000000e-02 in r: 7
+Average RSE - TNN: 0.34 za p: 1.000000e-02 in r: 7
+Average PSNR - TNN: 35.40 za p: 6.000000e-02 in r: 7
+Time - TNN: 59.40 za p: 6.000000e-02 in r: 7
+Average RSE - TNN: 0.03 za p: 6.000000e-02 in r: 7
+Average PSNR - TNN: 117.35 za p: 1.100000e-01 in r: 7
+Time - TNN: 59.40 za p: 1.100000e-01 in r: 7
+Average RSE - TNN: 0.00 za p: 1.100000e-01 in r: 7
+Average PSNR - TNN: 160.43 za p: 1.600000e-01 in r: 7
+Time - TNN: 60.46 za p: 1.600000e-01 in r: 7
+Average RSE - TNN: 0.00 za p: 1.600000e-01 in r: 7
+Average PSNR - TNN: 190.97 za p: 2.100000e-01 in r: 7
+Time - TNN: 63.42 za p: 2.100000e-01 in r: 7
+Average RSE - TNN: 0.00 za p: 2.100000e-01 in r: 7
+Average PSNR - TNN: 201.55 za p: 2.600000e-01 in r: 7
+Time - TNN: 66.86 za p: 2.600000e-01 in r: 7
+Average RSE - TNN: 0.00 za p: 2.600000e-01 in r: 7
+Average PSNR - TNN: 199.83 za p: 3.100000e-01 in r: 7
+Time - TNN: 48.55 za p: 3.100000e-01 in r: 7
+Average RSE - TNN: 0.00 za p: 3.100000e-01 in r: 7

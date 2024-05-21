@@ -1,0 +1,12 @@
+Povprečni PSNR za lrtc_tnn: 29.03
+Standardni otklon PSNR - lrtc_tnn: 3.09
+Čas - lrtc_tnn: 70.74
+Povprečni PSNR za HaLRTC: 26.77
+Standardni otklon PSNR - HaLRTC: 3.34
+Čas - HaLRTC: 114.28
+Povprečni PSNR za tSVD: 28.69
+Standardni otklon PSNR - tSVD: 3.27
+Čas - tSVD: 137.98
+Povprečni PSNR za Wang: 24.67
+Standardni otklon PSNR - Wang: 3.06
+Čas - Wang: 145.55
