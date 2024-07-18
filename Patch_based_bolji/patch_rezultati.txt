@@ -1,0 +1,14 @@
+Giant.png
+p=0.5
+
+HaLRTC: 
+	- patch: time=107.6076, psnr=28.2880
+	- osnovni: time=34.6603, psnr=25.5402
+
+Wang:
+	- patch: time=4.9571, psnr=19.8096
+	- osnovni: time=23.2590, psnr=23.2590
+
+tSVD:
+	- patch: time=76.1117, psnr=29.2689
+	- osnovni: time=48.810747, psnr=26.6075
