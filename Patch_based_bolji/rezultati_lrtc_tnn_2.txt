@@ -1,0 +1,3 @@
+PSNR - 0020.png: 8.9850, num_target: 10.0000, num_group: 5.0000
+RSE - 0020.png: 0.8724, num_target: 10.0000, num_group: 5.0000
+Time - 0020.png: 1.0523, num_target: 10.0000, num_group: 5.0000
